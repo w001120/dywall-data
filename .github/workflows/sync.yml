@@ -1,0 +1,47 @@
+name: 作品墙同步
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: 装环境
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg imagemagick > /dev/null
+          npm init -y > /dev/null 2>&1
+          npm install puppeteer@23 --no-fund --no-audit --silent
+          curl -fsSL "https://dywall-m4k7.web.zaka.live/crawl.mjs" -o crawl.mjs
+      - name: 抓取并合并
+        env:
+          TZ: Asia/Shanghai
+        run: |
+          mkdir -p data media
+          cp -f crawl-out/data/latest.json data/latest.json
+          cp -r crawl-out/media/. media/ 2>/dev/null || true
+      - name: 提交更新
+        run: |
+          git config user.name "dywall-sync"
+          git config user.email "sync@users.noreply.github.com"
+          git add -A data media
+          if git diff --staged --quiet; then echo "这次没有新作品"; else
+            git commit -m "sync $(date -u +%F_%H%M)"; git push; fi
+      - name: 通知手机
+        env:
+          BARK: ${{ secrets.BARK_KEY }}
+        run: |
+          if [ -n "$BARK" ]; then
+            curl -s "https://api.day.app/$BARK/%E6%8A%96%E9%9F%B3%E9%9B%B7%E8%BE%BE%EF%BC%9A%E4%BD%9C%E5%93%81%E5%BA%93%E5%B7%B2%E6%9B%B4%E6%96%B0?group=dywall" > /dev/null || true
+          fi
