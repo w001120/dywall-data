@@ -24,6 +24,7 @@ jobs:
           npm init -y > /dev/null 2>&1
           npm install puppeteer@23 --no-fund --no-audit --silent
           curl -fsSL "https://dywall-m4k7.web.zaka.live/crawl.mjs" -o crawl.mjs
+          node crawl.mjs
       - name: 抓取并合并
         env:
           TZ: Asia/Shanghai
