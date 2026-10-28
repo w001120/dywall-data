@@ -1,5 +1,5 @@
 {
- "syncedAt": "2026-10-27T18:34:08.336Z",
+ "syncedAt": "2026-10-28T00:29:24.460Z",
  "accounts": [
   {
    "secUid": "MS4wLjABAAAAGUIXLVBVRv48mNYj4ieU5HU7y6iXSST_Whana-c8Jts6t-AtB_A2b_aB4_sENp5T",
@@ -12,7 +12,7 @@
      "account": "endjfjk",
      "type": "note",
      "desc": "我跋山涉水 生命就随我流动#双鱼",
-     "digg": 1686,
+     "digg": 1691,
      "duration": 0,
      "cover": "/media/covers/7699007556488458427.jpg",
      "images": [
@@ -213,7 +213,8 @@
      "cover": "/media/covers/7699048217669457316.jpg",
      "images": [
       "/media/notes/7699048217669457316_0.jpg",
-      "/media/notes/7699048217669457316_1.jpg"
+      "/media/notes/7699048217669457316_1.jpg",
+      "/media/notes/7699048217669457316_2.jpg"
      ],
      "music": "/media/music/7699048217669457316.mp3",
      "videoId": null,
@@ -400,23 +401,8 @@
    "secUid": "MS4wLjABAAAAbocR3IAophdNkBlc3QS7BNy-L3PVn0tJZYnNTGjkwPhWvGIXICl-kN2mCE3Foi-u",
    "nickname": "冬.",
    "douyinId": "ww237729",
-   "postCount": 2,
+   "postCount": 1,
    "posts": [
-    {
-     "id": "7701359947292732785",
-     "account": "ww237729",
-     "type": "video",
-     "desc": "#深夜氛围感ootd",
-     "digg": 0,
-     "duration": 31,
-     "cover": "/media/covers/7701359947292732785.jpg",
-     "images": [],
-     "music": null,
-     "videoId": "v2800fgi0000dbgbk37og65mtkss3up0",
-     "ok": true,
-     "videoUrl": "/media/videos/7701359947292732785.mp4",
-     "hd": true
-    },
     {
      "id": "7697980969253375141",
      "account": "ww237729",
