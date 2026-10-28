@@ -1,5 +1,5 @@
 {
- "syncedAt": "2026-10-28T06:41:59.803Z",
+ "syncedAt": "2026-10-28T07:34:23.297Z",
  "accounts": [
   {
    "secUid": "MS4wLjABAAAAGUIXLVBVRv48mNYj4ieU5HU7y6iXSST_Whana-c8Jts6t-AtB_A2b_aB4_sENp5T",
@@ -12,13 +12,13 @@
      "account": "endjfjk",
      "type": "note",
      "desc": "我跋山涉水 生命就随我流动#双鱼",
-     "digg": 1716,
+     "digg": 1717,
      "duration": 0,
      "cover": "/media/covers/7699007556488458427.jpg",
      "images": [
       "/media/notes/7699007556488458427_0.jpg"
      ],
-     "music": "/media/music/7699007556488458427.mp3",
+     "music": null,
      "videoId": null,
      "ok": true
     },
@@ -30,13 +30,10 @@
      "digg": 284,
      "duration": 0,
      "cover": "/media/covers/7679482485454220145.jpg",
-     "images": [
-      "/media/notes/7679482485454220145_0.jpg",
-      "/media/notes/7679482485454220145_1.jpg"
-     ],
+     "images": [],
      "music": "/media/music/7679482485454220145.mp3",
      "videoId": null,
-     "ok": true
+     "ok": false
     },
     {
      "id": "7644881036137423097",
@@ -47,10 +44,9 @@
      "duration": 0,
      "cover": "/media/covers/7644881036137423097.jpg",
      "images": [
-      "/media/notes/7644881036137423097_0.jpg",
-      "/media/notes/7644881036137423097_1.jpg"
+      "/media/notes/7644881036137423097_0.jpg"
      ],
-     "music": "/media/music/7644881036137423097.mp3",
+     "music": null,
      "videoId": null,
      "ok": true
     },
@@ -63,8 +59,7 @@
      "duration": 0,
      "cover": "/media/covers/7607435877312627386.jpg",
      "images": [
-      "/media/notes/7607435877312627386_0.jpg",
-      "/media/notes/7607435877312627386_1.jpg"
+      "/media/notes/7607435877312627386_0.jpg"
      ],
      "music": "/media/music/7607435877312627386.mp3",
      "videoId": null,
@@ -79,8 +74,7 @@
      "duration": 0,
      "cover": "/media/covers/7603007946703794617.jpg",
      "images": [
-      "/media/notes/7603007946703794617_0.jpg",
-      "/media/notes/7603007946703794617_1.jpg"
+      "/media/notes/7603007946703794617_0.jpg"
      ],
      "music": "/media/music/7603007946703794617.mp3",
      "videoId": null,
@@ -95,8 +89,7 @@
      "duration": 0,
      "cover": "/media/covers/7580324391335575673.jpg",
      "images": [
-      "/media/notes/7580324391335575673_0.jpg",
-      "/media/notes/7580324391335575673_1.jpg"
+      "/media/notes/7580324391335575673_0.jpg"
      ],
      "music": "/media/music/7580324391335575673.mp3",
      "videoId": null,
@@ -111,8 +104,7 @@
      "duration": 0,
      "cover": "/media/covers/7575901290028790777.jpg",
      "images": [
-      "/media/notes/7575901290028790777_0.jpg",
-      "/media/notes/7575901290028790777_1.jpg"
+      "/media/notes/7575901290028790777_0.jpg"
      ],
      "music": "/media/music/7575901290028790777.mp3",
      "videoId": null,
@@ -127,8 +119,7 @@
      "duration": 0,
      "cover": "/media/covers/7568447850805261285.jpg",
      "images": [
-      "/media/notes/7568447850805261285_0.jpg",
-      "/media/notes/7568447850805261285_1.jpg"
+      "/media/notes/7568447850805261285_0.jpg"
      ],
      "music": "/media/music/7568447850805261285.mp3",
      "videoId": null,
@@ -143,8 +134,7 @@
      "duration": 0,
      "cover": "/media/covers/7417413575377046838.jpg",
      "images": [
-      "/media/notes/7417413575377046838_0.jpg",
-      "/media/notes/7417413575377046838_1.jpg"
+      "/media/notes/7417413575377046838_0.jpg"
      ],
      "music": "/media/music/7417413575377046838.mp3",
      "videoId": null,
@@ -212,9 +202,7 @@
      "duration": 0,
      "cover": "/media/covers/7699048217669457316.jpg",
      "images": [
-      "/media/notes/7699048217669457316_0.jpg",
-      "/media/notes/7699048217669457316_1.jpg",
-      "/media/notes/7699048217669457316_2.jpg"
+      "/media/notes/7699048217669457316_0.jpg"
      ],
      "music": "/media/music/7699048217669457316.mp3",
      "videoId": null,
@@ -229,8 +217,7 @@
      "duration": 0,
      "cover": "/media/covers/7698768041774444017.jpg",
      "images": [
-      "/media/notes/7698768041774444017_0.jpg",
-      "/media/notes/7698768041774444017_1.jpg"
+      "/media/notes/7698768041774444017_0.jpg"
      ],
      "music": "/media/music/7698768041774444017.mp3",
      "videoId": null,
@@ -245,8 +232,7 @@
      "duration": 0,
      "cover": "/media/covers/7698141512047817201.jpg",
      "images": [
-      "/media/notes/7698141512047817201_0.jpg",
-      "/media/notes/7698141512047817201_1.jpg"
+      "/media/notes/7698141512047817201_0.jpg"
      ],
      "music": "/media/music/7698141512047817201.mp3",
      "videoId": null,
@@ -261,8 +247,7 @@
      "duration": 0,
      "cover": "/media/covers/7616759341659811963.jpg",
      "images": [
-      "/media/notes/7616759341659811963_0.jpg",
-      "/media/notes/7616759341659811963_1.jpg"
+      "/media/notes/7616759341659811963_0.jpg"
      ],
      "music": "/media/music/7616759341659811963.mp3",
      "videoId": null,
@@ -277,8 +262,7 @@
      "duration": 0,
      "cover": "/media/covers/7603756180757936549.jpg",
      "images": [
-      "/media/notes/7603756180757936549_0.jpg",
-      "/media/notes/7603756180757936549_1.jpg"
+      "/media/notes/7603756180757936549_0.jpg"
      ],
      "music": "/media/music/7603756180757936549.mp3",
      "videoId": null,
@@ -293,9 +277,7 @@
      "duration": 0,
      "cover": "/media/covers/7585960360549666085.jpg",
      "images": [
-      "/media/notes/7585960360549666085_0.jpg",
-      "/media/notes/7585960360549666085_1.jpg",
-      "/media/notes/7585960360549666085_2.jpg"
+      "/media/notes/7585960360549666085_0.jpg"
      ],
      "music": "/media/music/7585960360549666085.mp3",
      "videoId": null,
@@ -310,8 +292,7 @@
      "duration": 0,
      "cover": "/media/covers/7582239742185278778.jpg",
      "images": [
-      "/media/notes/7582239742185278778_0.jpg",
-      "/media/notes/7582239742185278778_1.jpg"
+      "/media/notes/7582239742185278778_0.jpg"
      ],
      "music": "/media/music/7582239742185278778.mp3",
      "videoId": null,
@@ -341,8 +322,7 @@
      "duration": 0,
      "cover": "/media/covers/7572194535042048101.jpg",
      "images": [
-      "/media/notes/7572194535042048101_0.jpg",
-      "/media/notes/7572194535042048101_1.jpg"
+      "/media/notes/7572194535042048101_0.jpg"
      ],
      "music": "/media/music/7572194535042048101.mp3",
      "videoId": null,
@@ -372,8 +352,7 @@
      "duration": 0,
      "cover": "/media/covers/7567019340668875131.jpg",
      "images": [
-      "/media/notes/7567019340668875131_0.jpg",
-      "/media/notes/7567019340668875131_1.jpg"
+      "/media/notes/7567019340668875131_0.jpg"
      ],
      "music": "/media/music/7567019340668875131.mp3",
      "videoId": null,
@@ -388,8 +367,7 @@
      "duration": 0,
      "cover": "/media/covers/7555415237287365947.jpg",
      "images": [
-      "/media/notes/7555415237287365947_0.jpg",
-      "/media/notes/7555415237287365947_1.jpg"
+      "/media/notes/7555415237287365947_0.jpg"
      ],
      "music": "/media/music/7555415237287365947.mp3",
      "videoId": null,
@@ -401,21 +379,8 @@
    "secUid": "MS4wLjABAAAAbocR3IAophdNkBlc3QS7BNy-L3PVn0tJZYnNTGjkwPhWvGIXICl-kN2mCE3Foi-u",
    "nickname": "冬.",
    "douyinId": "ww237729",
-   "postCount": 2,
+   "postCount": 1,
    "posts": [
-    {
-     "id": "7701586189812272347",
-     "account": "ww237729",
-     "type": "video",
-     "desc": "呜呜呜",
-     "digg": 0,
-     "duration": 31,
-     "cover": "/media/covers/7701586189812272347.jpg",
-     "images": [],
-     "music": null,
-     "videoId": null,
-     "ok": false
-    },
     {
      "id": "7697980969253375141",
      "account": "ww237729",
