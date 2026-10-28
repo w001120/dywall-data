@@ -1,5 +1,5 @@
 {
- "syncedAt": "2026-10-28T06:34:11.122Z",
+ "syncedAt": "2026-10-28T06:41:59.803Z",
  "accounts": [
   {
    "secUid": "MS4wLjABAAAAGUIXLVBVRv48mNYj4ieU5HU7y6iXSST_Whana-c8Jts6t-AtB_A2b_aB4_sENp5T",
@@ -16,15 +16,7 @@
      "duration": 0,
      "cover": "/media/covers/7699007556488458427.jpg",
      "images": [
-      "/media/notes/7699007556488458427_0.jpg",
-      "/media/notes/7699007556488458427_1.jpg",
-      "/media/notes/7699007556488458427_2.jpg",
-      "/media/notes/7699007556488458427_3.jpg",
-      "/media/notes/7699007556488458427_4.jpg",
-      "/media/notes/7699007556488458427_5.jpg",
-      "/media/notes/7699007556488458427_6.jpg",
-      "/media/notes/7699007556488458427_7.jpg",
-      "/media/notes/7699007556488458427_8.jpg"
+      "/media/notes/7699007556488458427_0.jpg"
      ],
      "music": "/media/music/7699007556488458427.mp3",
      "videoId": null,
@@ -222,16 +214,7 @@
      "images": [
       "/media/notes/7699048217669457316_0.jpg",
       "/media/notes/7699048217669457316_1.jpg",
-      "/media/notes/7699048217669457316_2.jpg",
-      "/media/notes/7699048217669457316_3.jpg",
-      "/media/notes/7699048217669457316_4.jpg",
-      "/media/notes/7699048217669457316_5.jpg",
-      "/media/notes/7699048217669457316_6.jpg",
-      "/media/notes/7699048217669457316_7.jpg",
-      "/media/notes/7699048217669457316_8.jpg",
-      "/media/notes/7699048217669457316_9.jpg",
-      "/media/notes/7699048217669457316_10.jpg",
-      "/media/notes/7699048217669457316_11.jpg"
+      "/media/notes/7699048217669457316_2.jpg"
      ],
      "music": "/media/music/7699048217669457316.mp3",
      "videoId": null,
@@ -430,10 +413,8 @@
      "cover": "/media/covers/7701586189812272347.jpg",
      "images": [],
      "music": null,
-     "videoId": "v0300fg10000dbgofjnog65tpl6nfm20",
-     "ok": true,
-     "videoUrl": "/media/videos/7701586189812272347.mp4",
-     "hd": true
+     "videoId": null,
+     "ok": false
     },
     {
      "id": "7697980969253375141",
