@@ -1,5 +1,5 @@
 {
- "syncedAt": "2026-10-28T07:34:23.297Z",
+ "syncedAt": "2026-10-28T12:32:26.784Z",
  "accounts": [
   {
    "secUid": "MS4wLjABAAAAGUIXLVBVRv48mNYj4ieU5HU7y6iXSST_Whana-c8Jts6t-AtB_A2b_aB4_sENp5T",
@@ -12,13 +12,13 @@
      "account": "endjfjk",
      "type": "note",
      "desc": "我跋山涉水 生命就随我流动#双鱼",
-     "digg": 1717,
+     "digg": 1758,
      "duration": 0,
      "cover": "/media/covers/7699007556488458427.jpg",
      "images": [
       "/media/notes/7699007556488458427_0.jpg"
      ],
-     "music": null,
+     "music": "/media/music/7699007556488458427.mp3",
      "videoId": null,
      "ok": true
     },
@@ -30,10 +30,12 @@
      "digg": 284,
      "duration": 0,
      "cover": "/media/covers/7679482485454220145.jpg",
-     "images": [],
+     "images": [
+      "/media/notes/7679482485454220145_0.jpg"
+     ],
      "music": "/media/music/7679482485454220145.mp3",
      "videoId": null,
-     "ok": false
+     "ok": true
     },
     {
      "id": "7644881036137423097",
@@ -46,7 +48,7 @@
      "images": [
       "/media/notes/7644881036137423097_0.jpg"
      ],
-     "music": null,
+     "music": "/media/music/7644881036137423097.mp3",
      "videoId": null,
      "ok": true
     },
@@ -201,12 +203,10 @@
      "digg": 37,
      "duration": 0,
      "cover": "/media/covers/7699048217669457316.jpg",
-     "images": [
-      "/media/notes/7699048217669457316_0.jpg"
-     ],
+     "images": [],
      "music": "/media/music/7699048217669457316.mp3",
      "videoId": null,
-     "ok": true
+     "ok": false
     },
     {
      "id": "7698768041774444017",
@@ -261,12 +261,10 @@
      "digg": 15,
      "duration": 0,
      "cover": "/media/covers/7603756180757936549.jpg",
-     "images": [
-      "/media/notes/7603756180757936549_0.jpg"
-     ],
+     "images": [],
      "music": "/media/music/7603756180757936549.mp3",
      "videoId": null,
-     "ok": true
+     "ok": false
     },
     {
      "id": "7585960360549666085",
@@ -291,12 +289,10 @@
      "digg": 69,
      "duration": 0,
      "cover": "/media/covers/7582239742185278778.jpg",
-     "images": [
-      "/media/notes/7582239742185278778_0.jpg"
-     ],
+     "images": [],
      "music": "/media/music/7582239742185278778.mp3",
      "videoId": null,
-     "ok": true
+     "ok": false
     },
     {
      "id": "7577674393926087077",
@@ -366,12 +362,10 @@
      "digg": 49,
      "duration": 0,
      "cover": "/media/covers/7555415237287365947.jpg",
-     "images": [
-      "/media/notes/7555415237287365947_0.jpg"
-     ],
+     "images": [],
      "music": "/media/music/7555415237287365947.mp3",
      "videoId": null,
-     "ok": true
+     "ok": false
     }
    ]
   },
