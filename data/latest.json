@@ -1,5 +1,5 @@
 {
- "syncedAt": "2026-10-29T18:32:06.011Z",
+ "syncedAt": "2026-10-30T00:34:07.271Z",
  "accounts": [
   {
    "secUid": "MS4wLjABAAAAGUIXLVBVRv48mNYj4ieU5HU7y6iXSST_Whana-c8Jts6t-AtB_A2b_aB4_sENp5T",
@@ -12,7 +12,7 @@
      "account": "endjfjk",
      "type": "note",
      "desc": "我跋山涉水 生命就随我流动#双鱼",
-     "digg": 1867,
+     "digg": 1926,
      "duration": 0,
      "cover": "/media/covers/7699007556488458427.jpg",
      "images": [
@@ -105,10 +105,12 @@
      "digg": 6334,
      "duration": 0,
      "cover": "/media/covers/7575901290028790777.jpg",
-     "images": [],
+     "images": [
+      "/media/notes/7575901290028790777_0.jpg"
+     ],
      "music": "/media/music/7575901290028790777.mp3",
      "videoId": null,
-     "ok": false
+     "ok": true
     },
     {
      "id": "7568447850805261285",
@@ -201,12 +203,10 @@
      "digg": 37,
      "duration": 0,
      "cover": "/media/covers/7699048217669457316.jpg",
-     "images": [
-      "/media/notes/7699048217669457316_0.jpg"
-     ],
+     "images": [],
      "music": "/media/music/7699048217669457316.mp3",
      "videoId": null,
-     "ok": true
+     "ok": false
     },
     {
      "id": "7698768041774444017",
@@ -261,10 +261,12 @@
      "digg": 15,
      "duration": 0,
      "cover": "/media/covers/7603756180757936549.jpg",
-     "images": [],
+     "images": [
+      "/media/notes/7603756180757936549_0.jpg"
+     ],
      "music": "/media/music/7603756180757936549.mp3",
      "videoId": null,
-     "ok": false
+     "ok": true
     },
     {
      "id": "7585960360549666085",
