@@ -1,5 +1,5 @@
 {
- "syncedAt": "2026-10-30T06:38:34.108Z",
+ "syncedAt": "2026-10-30T12:35:16.831Z",
  "accounts": [
   {
    "secUid": "MS4wLjABAAAAGUIXLVBVRv48mNYj4ieU5HU7y6iXSST_Whana-c8Jts6t-AtB_A2b_aB4_sENp5T",
@@ -233,12 +233,10 @@
      "digg": 53,
      "duration": 0,
      "cover": "/media/covers/7698141512047817201.jpg",
-     "images": [
-      "/media/notes/7698141512047817201_0.jpg"
-     ],
+     "images": [],
      "music": "/media/music/7698141512047817201.mp3",
      "videoId": null,
-     "ok": true
+     "ok": false
     },
     {
      "id": "7616759341659811963",
@@ -263,12 +261,10 @@
      "digg": 15,
      "duration": 0,
      "cover": "/media/covers/7603756180757936549.jpg",
-     "images": [
-      "/media/notes/7603756180757936549_0.jpg"
-     ],
+     "images": [],
      "music": "/media/music/7603756180757936549.mp3",
      "videoId": null,
-     "ok": true
+     "ok": false
     },
     {
      "id": "7585960360549666085",
@@ -311,7 +307,7 @@
      "images": [
       "/media/notes/7577674393926087077_0.jpg"
      ],
-     "music": null,
+     "music": "/media/music/7577674393926087077.mp3",
      "videoId": null,
      "ok": true
     },
@@ -353,12 +349,10 @@
      "digg": 42,
      "duration": 0,
      "cover": "/media/covers/7567019340668875131.jpg",
-     "images": [
-      "/media/notes/7567019340668875131_0.jpg"
-     ],
+     "images": [],
      "music": "/media/music/7567019340668875131.mp3",
      "videoId": null,
-     "ok": true
+     "ok": false
     },
     {
      "id": "7555415237287365947",
@@ -368,12 +362,10 @@
      "digg": 49,
      "duration": 0,
      "cover": "/media/covers/7555415237287365947.jpg",
-     "images": [
-      "/media/notes/7555415237287365947_0.jpg"
-     ],
+     "images": [],
      "music": "/media/music/7555415237287365947.mp3",
      "videoId": null,
-     "ok": true
+     "ok": false
     }
    ]
   },
@@ -391,12 +383,10 @@
      "digg": 12,
      "duration": 0,
      "cover": "/media/covers/7697980969253375141.jpg",
-     "images": [
-      "/media/notes/7697980969253375141_0.jpg"
-     ],
+     "images": [],
      "music": "/media/music/7697980969253375141.mp3",
      "videoId": null,
-     "ok": true
+     "ok": false
     }
    ]
   }
