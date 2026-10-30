@@ -1,5 +1,5 @@
 {
- "syncedAt": "2026-10-30T12:35:16.831Z",
+ "syncedAt": "2026-10-30T18:33:45.979Z",
  "accounts": [
   {
    "secUid": "MS4wLjABAAAAGUIXLVBVRv48mNYj4ieU5HU7y6iXSST_Whana-c8Jts6t-AtB_A2b_aB4_sENp5T",
@@ -203,12 +203,10 @@
      "digg": 37,
      "duration": 0,
      "cover": "/media/covers/7699048217669457316.jpg",
-     "images": [
-      "/media/notes/7699048217669457316_0.jpg"
-     ],
+     "images": [],
      "music": "/media/music/7699048217669457316.mp3",
      "videoId": null,
-     "ok": true
+     "ok": false
     },
     {
      "id": "7698768041774444017",
@@ -221,7 +219,7 @@
      "images": [
       "/media/notes/7698768041774444017_0.jpg"
      ],
-     "music": "/media/music/7698768041774444017.mp3",
+     "music": null,
      "videoId": null,
      "ok": true
     },
@@ -233,10 +231,12 @@
      "digg": 53,
      "duration": 0,
      "cover": "/media/covers/7698141512047817201.jpg",
-     "images": [],
+     "images": [
+      "/media/notes/7698141512047817201_0.jpg"
+     ],
      "music": "/media/music/7698141512047817201.mp3",
      "videoId": null,
-     "ok": false
+     "ok": true
     },
     {
      "id": "7616759341659811963",
@@ -261,10 +261,12 @@
      "digg": 15,
      "duration": 0,
      "cover": "/media/covers/7603756180757936549.jpg",
-     "images": [],
+     "images": [
+      "/media/notes/7603756180757936549_0.jpg"
+     ],
      "music": "/media/music/7603756180757936549.mp3",
      "videoId": null,
-     "ok": false
+     "ok": true
     },
     {
      "id": "7585960360549666085",
@@ -349,10 +351,12 @@
      "digg": 42,
      "duration": 0,
      "cover": "/media/covers/7567019340668875131.jpg",
-     "images": [],
+     "images": [
+      "/media/notes/7567019340668875131_0.jpg"
+     ],
      "music": "/media/music/7567019340668875131.mp3",
      "videoId": null,
-     "ok": false
+     "ok": true
     },
     {
      "id": "7555415237287365947",
@@ -362,10 +366,12 @@
      "digg": 49,
      "duration": 0,
      "cover": "/media/covers/7555415237287365947.jpg",
-     "images": [],
+     "images": [
+      "/media/notes/7555415237287365947_0.jpg"
+     ],
      "music": "/media/music/7555415237287365947.mp3",
      "videoId": null,
-     "ok": false
+     "ok": true
     }
    ]
   },
@@ -380,13 +386,15 @@
      "account": "ww237729",
      "type": "note",
      "desc": "玫瑰花填不饱肚子 小惊喜感动不了成熟女孩#天蝎",
-     "digg": 12,
+     "digg": 13,
      "duration": 0,
      "cover": "/media/covers/7697980969253375141.jpg",
-     "images": [],
+     "images": [
+      "/media/notes/7697980969253375141_0.jpg"
+     ],
      "music": "/media/music/7697980969253375141.mp3",
      "videoId": null,
-     "ok": false
+     "ok": true
     }
    ]
   }
