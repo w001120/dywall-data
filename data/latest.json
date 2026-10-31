@@ -1,5 +1,5 @@
 {
- "syncedAt": "2026-10-31T06:38:40.697Z",
+ "syncedAt": "2026-10-31T12:35:04.135Z",
  "accounts": [
   {
    "secUid": "MS4wLjABAAAAGUIXLVBVRv48mNYj4ieU5HU7y6iXSST_Whana-c8Jts6t-AtB_A2b_aB4_sENp5T",
@@ -7,15 +7,15 @@
    "douyinId": "endjfjk",
    "postCount": 9,
    "ipLocation": "广西",
-   "ipAt": "2026-10-31T06:36:34.547Z",
-   "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/o5lwe0eofm6vva3/s6t_at_ba2ba_b4s_enp5_t_4yzcbjvxy8.jpg",
+   "ipAt": "2026-10-31T12:33:22.651Z",
+   "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/wpgilt0az6rwpdz/s6t_at_ba2ba_b4s_enp5_t_7jmjhfzsa8.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_29460abd1df1cf3c14840273fec0995d.jpeg?from=2956013662",
    "signature": "( ,,>ヮ<,,) =\n小宝贝：@小钢牙",
    "verify": "",
    "verifyType": "none",
-   "followerCount": 276,
+   "followerCount": 275,
    "followingCount": 79,
-   "totalFavorited": 37480,
+   "totalFavorited": 37530,
    "awemeCount": 10,
    "live": {
     "isLive": false,
@@ -106,6 +106,14 @@
      "following": 79,
      "liked": 37480,
      "posts": 10
+    },
+    {
+     "at": "2026-10-31T12:33:22.651Z",
+     "day": "2026-10-31",
+     "followers": 275,
+     "following": 79,
+     "liked": 37530,
+     "posts": 10
     }
    ],
    "_probe": {
@@ -114,7 +122,7 @@
     "stat": null,
     "ct": null
    },
-   "profileAt": "2026-10-31T06:36:34.547Z",
+   "profileAt": "2026-10-31T12:33:22.651Z",
    "posts": [
     {
      "account": "endjfjk",
@@ -358,7 +366,7 @@
    "douyinId": "yi1315987",
    "postCount": 15,
    "ipLocation": "广东",
-   "ipAt": "2026-10-31T06:36:34.560Z",
+   "ipAt": "2026-10-31T12:33:22.661Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/4mqe0q1uq5n32d1/oli_yumxw8dft_l0_ed_xw_uqd2s2sm9q.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-0813_oYVkIoeaAONrYW8DAAnAQSAF9JlgCCAAAYDybf.jpeg?from=2956013662",
    "signature": "",
@@ -452,6 +460,14 @@
      "following": 212,
      "liked": 1225,
      "posts": 20
+    },
+    {
+     "at": "2026-10-31T12:33:22.661Z",
+     "day": "2026-10-31",
+     "followers": 76,
+     "following": 212,
+     "liked": 1225,
+     "posts": 20
     }
    ],
    "_probe": {
@@ -487,7 +503,7 @@
     "awemeType": 61,
     "imgCount": 0
    },
-   "profileAt": "2026-10-31T06:36:34.560Z",
+   "profileAt": "2026-10-31T12:33:22.661Z",
    "posts": [
     {
      "id": "7699860658838640229",
@@ -649,7 +665,7 @@
      "images": [
       "/media/notes/7698141512047817201_0.jpg"
      ],
-     "music": "/media/music/7698141512047817201.mp3",
+     "music": null,
      "videoId": null,
      "ok": true
     },
@@ -781,7 +797,7 @@
      "images": [
       "/media/notes/7577674393926087077_0.jpg"
      ],
-     "music": "/media/music/7577674393926087077.mp3",
+     "music": null,
      "videoId": null,
      "ok": true
     },
@@ -804,10 +820,12 @@
      "products": [],
      "duration": 0,
      "cover": "/media/covers/7572194535042048101.jpg",
-     "images": [],
+     "images": [
+      "/media/notes/7572194535042048101_0.jpg"
+     ],
      "music": "/media/music/7572194535042048101.mp3",
      "videoId": null,
-     "ok": false
+     "ok": true
     },
     {
      "id": "7571436661969192037",
@@ -882,10 +900,12 @@
      "products": [],
      "duration": 0,
      "cover": "/media/covers/7555415237287365947.jpg",
-     "images": [],
+     "images": [
+      "/media/notes/7555415237287365947_0.jpg"
+     ],
      "music": "/media/music/7555415237287365947.mp3",
      "videoId": null,
-     "ok": false
+     "ok": true
     }
    ]
   },
@@ -895,7 +915,7 @@
    "douyinId": "ww237729",
    "postCount": 1,
    "ipLocation": "广东",
-   "ipAt": "2026-10-31T06:36:34.560Z",
+   "ipAt": "2026-10-31T12:33:22.661Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/vt23sv02r6zt1pf/v_gixiclk_n2m_ce3_foiu_0p30vv2a6b.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_919ce9fa47679563f80c81a1574df2eb.jpeg?from=2956013662",
    "signature": "希望你能记得我.",
@@ -989,6 +1009,14 @@
      "following": 9,
      "liked": 266,
      "posts": 1
+    },
+    {
+     "at": "2026-10-31T12:33:22.661Z",
+     "day": "2026-10-31",
+     "followers": 20,
+     "following": 9,
+     "liked": 266,
+     "posts": 1
     }
    ],
    "_probe": {
@@ -1024,7 +1052,7 @@
     "awemeType": 68,
     "imgCount": 0
    },
-   "profileAt": "2026-10-31T06:36:34.560Z",
+   "profileAt": "2026-10-31T12:33:22.661Z",
    "posts": [
     {
      "id": "7697980969253375141",
@@ -1130,20 +1158,20 @@
   ]
  },
  "_diag": {
-  "at": "2026-10-31T06:10:13.549Z",
+  "at": "2026-10-31T12:07:02.281Z",
   "code": 0,
   "everyMin": 40,
   "fresh": 0,
   "freshList": [],
-  "nextAt": "2026-10-31T06:41:11.625Z",
+  "nextAt": "2026-10-31T12:41:11.978Z",
   "pid": 1,
   "removed": 0,
   "removedList": [],
-  "round": 11,
-  "seconds": 542,
+  "round": 20,
+  "seconds": 350,
   "stage": "done",
-  "tail": "[accounts] 用仓库名单 3 个 | [state] 已知作品 25 | [acct] 4_sENp5T posts 0 name 蠢吗你 id endjfjk ip 广西 fans 276 like 37476 verify none live false api true | [prof] 第一次没拿到，3 秒后重试 | [acct] ftL0EdXw posts 15 name wo八方来财 id yi1315987 ip 广东 fans 76 like 1225 verify none live false api true | [prof] 第一次没拿到，3 秒后重试 | [acct] CE3Foi-u posts 1 name 冬. id ww237729 ip 广东 fans 20 like 266 verify none live false api true | [keep] 4_sENp5T 本轮作品列表没拉到 → 保留上一版 9 条 | [stat] 详情页没读到数字 7698141512047817201 note | [stat] 本轮补了 0 条（接口 0 / 详情页 0 ），还差 1 条下轮接着补 | [stat] 探针 [{\"id\":\"7698141512047817201\",\"type\":\"note\",\"got\":{\"like\":null,\"comment\":null,\"collect\":null,\"share\":null,\"time\":0}}] | DONE posts 25 ok 16 | [diff] 上一版 25 条 / 本次 25 条 / 新增 0 条 / 号主已删 0 条 | [site] 已同步到站点 25 条 | [quiet] 本轮没有新作品 → 不提交、不推送通知，正常结束（绿勾） | [quiet] 数据已还原为上一版，工作区无改动 | [quiet] 常驻模式：保留本地媒体，下轮直接用 | [quiet] 常驻模式：跳过静音处理",
-  "uptimeMin": 300
+  "tail": "[accounts] 用仓库名单 3 个 | [state] 已知作品 25 | [acct] 4_sENp5T posts 9 name 蠢吗你 id endjfjk ip 广西 fans 275 like 37527 verify none live false api true | [acct] ftL0EdXw posts 15 name wo八方来财 id yi1315987 ip 广东 fans 76 like 1225 verify none live false api true | [prof] 第一次没拿到，3 秒后重试 | [acct] CE3Foi-u posts 1 name 冬. id ww237729 ip 广东 fans 20 like 266 verify none live false api true | [stat] 详情页没读到数字 7698141512047817201 note | [stat] 本轮补了 0 条（接口 0 / 详情页 0 ），还差 1 条下轮接着补 | [stat] 探针 [{\"id\":\"7698141512047817201\",\"type\":\"note\",\"got\":{\"like\":null,\"comment\":null,\"collect\":null,\"share\":null,\"time\":0}}] | DONE posts 25 ok 25 | [diff] 上一版 25 条 / 本次 25 条 / 新增 0 条 / 号主已删 0 条 | [site] 已同步到站点 25 条 | [quiet] 本轮没有新作品 → 不提交、不推送通知，正常结束（绿勾） | [quiet] 数据已还原为上一版，工作区无改动 | [quiet] 常驻模式：保留本地媒体，下轮直接用 | [quiet] 常驻模式：跳过静音处理",
+  "uptimeMin": 657
  },
  "_trigger": {
   "at": "2026-10-31T04:39:58.266Z",
