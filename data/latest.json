@@ -1,5 +1,5 @@
 {
- "syncedAt": "2026-11-01T06:45:26.737Z",
+ "syncedAt": "2026-11-01T12:39:16.526Z",
  "accounts": [
   {
    "secUid": "MS4wLjABAAAAGUIXLVBVRv48mNYj4ieU5HU7y6iXSST_Whana-c8Jts6t-AtB_A2b_aB4_sENp5T",
@@ -7,7 +7,7 @@
    "douyinId": "endjfjk",
    "postCount": 9,
    "ipLocation": "广西",
-   "ipAt": "2026-11-01T06:43:05.177Z",
+   "ipAt": "2026-11-01T12:37:23.153Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/wpgilt0az6rwpdz/s6t_at_ba2ba_b4s_enp5_t_7jmjhfzsa8.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_29460abd1df1cf3c14840273fec0995d.jpeg?from=2956013662",
    "signature": "( ,,>ヮ<,,) =\n小宝贝：@小钢牙",
@@ -15,7 +15,7 @@
    "verifyType": "none",
    "followerCount": 275,
    "followingCount": 79,
-   "totalFavorited": 37631,
+   "totalFavorited": 37655,
    "awemeCount": 10,
    "live": {
     "isLive": false,
@@ -146,6 +146,14 @@
      "following": 79,
      "liked": 37631,
      "posts": 10
+    },
+    {
+     "at": "2026-11-01T12:37:23.153Z",
+     "day": "2026-11-01",
+     "followers": 275,
+     "following": 79,
+     "liked": 37655,
+     "posts": 10
     }
    ],
    "_probe": {
@@ -174,24 +182,24 @@
      "common_labels"
     ],
     "stat": {
-     "digg_count": 2192
+     "digg_count": 2217
     },
     "ct": null,
     "dur": null,
     "awemeType": 68,
     "imgCount": 0
    },
-   "profileAt": "2026-11-01T06:43:05.177Z",
+   "profileAt": "2026-11-01T12:37:23.153Z",
    "posts": [
     {
      "id": "7699007556488458427",
      "account": "endjfjk",
      "type": "note",
      "desc": "我跋山涉水 生命就随我流动#双鱼",
-     "digg": 2192,
+     "digg": 2217,
      "commentCount": 20,
-     "collectCount": 128,
-     "shareCount": 58,
+     "collectCount": 132,
+     "shareCount": 60,
      "playCount": 0,
      "createdAt": 1792564884,
      "publishedAt": "2026-10-21T06:41:24.000Z",
@@ -332,10 +340,12 @@
      "products": [],
      "duration": 0,
      "cover": "/media/covers/7580324391335575673.jpg",
-     "images": [],
+     "images": [
+      "/media/notes/7580324391335575673_0.jpg"
+     ],
      "music": "/media/music/7580324391335575673.mp3",
      "videoId": null,
-     "ok": false
+     "ok": true
     },
     {
      "id": "7575901290028790777",
@@ -423,7 +433,7 @@
    "douyinId": "yi1315987",
    "postCount": 15,
    "ipLocation": "广东",
-   "ipAt": "2026-11-01T06:43:05.191Z",
+   "ipAt": "2026-11-01T12:37:23.164Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/4mqe0q1uq5n32d1/oli_yumxw8dft_l0_ed_xw_uqd2s2sm9q.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-0813_oYVkIoeaAONrYW8DAAnAQSAF9JlgCCAAAYDybf.jpeg?from=2956013662",
    "signature": "",
@@ -557,6 +567,14 @@
      "following": 212,
      "liked": 1225,
      "posts": 20
+    },
+    {
+     "at": "2026-11-01T12:37:23.164Z",
+     "day": "2026-11-01",
+     "followers": 76,
+     "following": 212,
+     "liked": 1225,
+     "posts": 20
     }
    ],
    "_probe": {
@@ -592,7 +610,7 @@
     "awemeType": 61,
     "imgCount": 0
    },
-   "profileAt": "2026-11-01T06:43:05.191Z",
+   "profileAt": "2026-11-01T12:37:23.164Z",
    "posts": [
     {
      "id": "7699860658838640229",
@@ -723,12 +741,10 @@
      "products": [],
      "duration": 0,
      "cover": "/media/covers/7698768041774444017.jpg",
-     "images": [
-      "/media/notes/7698768041774444017_0.jpg"
-     ],
+     "images": [],
      "music": "/media/music/7698768041774444017.mp3",
      "videoId": null,
-     "ok": true
+     "ok": false
     },
     {
      "id": "7698141512047817201",
@@ -1004,7 +1020,7 @@
    "douyinId": "ww237729",
    "postCount": 1,
    "ipLocation": "广东",
-   "ipAt": "2026-11-01T06:43:05.191Z",
+   "ipAt": "2026-11-01T12:37:23.164Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/vt23sv02r6zt1pf/v_gixiclk_n2m_ce3_foiu_0p30vv2a6b.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_919ce9fa47679563f80c81a1574df2eb.jpeg?from=2956013662",
    "signature": "希望你能记得我.",
@@ -1130,6 +1146,14 @@
      "following": 9,
      "liked": 266,
      "posts": 1
+    },
+    {
+     "at": "2026-11-01T12:37:23.164Z",
+     "day": "2026-11-01",
+     "followers": 20,
+     "following": 9,
+     "liked": 266,
+     "posts": 1
     }
    ],
    "_probe": {
@@ -1165,7 +1189,7 @@
     "awemeType": 68,
     "imgCount": 0
    },
-   "profileAt": "2026-11-01T06:43:05.191Z",
+   "profileAt": "2026-11-01T12:37:23.164Z",
    "posts": [
     {
      "id": "7697980969253375141",
@@ -1271,10 +1295,10 @@
   ]
  },
  "_diag": {
-  "at": "2026-11-01T06:35:38.666Z",
+  "at": "2026-11-01T12:36:24.251Z",
   "everyMin": 40,
   "manual": false,
-  "round": 7,
+  "round": 16,
   "stage": "running",
   "triggerId": null
  },
