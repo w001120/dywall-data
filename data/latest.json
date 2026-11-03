@@ -1,5 +1,5 @@
 {
- "syncedAt": "2026-11-03T13:05:37.993Z",
+ "syncedAt": "2026-11-03T18:56:33.530Z",
  "accounts": [
   {
    "secUid": "MS4wLjABAAAAGUIXLVBVRv48mNYj4ieU5HU7y6iXSST_Whana-c8Jts6t-AtB_A2b_aB4_sENp5T",
@@ -7,15 +7,15 @@
    "douyinId": "endjfjk",
    "postCount": 10,
    "ipLocation": "广西",
-   "ipAt": "2026-11-03T13:03:34.295Z",
+   "ipAt": "2026-11-03T18:54:24.081Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/mou217f1i662p5p/s6t_at_ba2ba_b4s_enp5_t_ykwhb9zdca.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_29460abd1df1cf3c14840273fec0995d.jpeg?from=2956013662",
    "signature": "( ,,>ヮ<,,) =\n小宝贝：@小钢牙",
    "verify": "",
    "verifyType": "none",
-   "followerCount": 275,
+   "followerCount": 273,
    "followingCount": 80,
-   "totalFavorited": 37713,
+   "totalFavorited": 37717,
    "awemeCount": 10,
    "live": {
     "isLive": false,
@@ -274,6 +274,14 @@
      "following": 80,
      "liked": 37713,
      "posts": 10
+    },
+    {
+     "at": "2026-11-03T18:54:24.081Z",
+     "day": "2026-11-04",
+     "followers": 273,
+     "following": 80,
+     "liked": 37717,
+     "posts": 10
     }
    ],
    "_probe": {
@@ -302,7 +310,7 @@
      "common_labels"
     ],
     "stat": {
-     "digg_count": 2278
+     "digg_count": 2282
     },
     "ct": null,
     "dur": null,
@@ -319,14 +327,14 @@
     "tries": 1,
     "add": 1
    },
-   "profileAt": "2026-11-03T13:03:34.295Z",
+   "profileAt": "2026-11-03T18:54:24.081Z",
    "posts": [
     {
      "id": "7699007556488458427",
      "account": "endjfjk",
      "type": "note",
      "desc": "我跋山涉水 生命就随我流动#双鱼",
-     "digg": 2278,
+     "digg": 2282,
      "commentCount": 20,
      "collectCount": 132,
      "shareCount": 60,
@@ -621,14 +629,14 @@
    "nickname": "wo八方来财",
    "douyinId": "yi1315987",
    "postCount": 20,
-   "ipLocation": "广东",
-   "ipAt": "2026-11-03T13:03:34.309Z",
+   "ipLocation": "广西",
+   "ipAt": "2026-11-03T18:54:24.094Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/4h15zff23fdlf44/oli_yumxw8dft_l0_ed_xw_infpago77w.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-0813_oYVkIoeaAONrYW8DAAnAQSAF9JlgCCAAAYDybf.jpeg?from=2956013662",
    "signature": "",
    "verify": "",
    "verifyType": "none",
-   "followerCount": 76,
+   "followerCount": 75,
    "followingCount": 213,
    "totalFavorited": 1226,
    "awemeCount": 20,
@@ -884,6 +892,14 @@
      "following": 213,
      "liked": 1226,
      "posts": 20
+    },
+    {
+     "at": "2026-11-03T18:54:24.094Z",
+     "day": "2026-11-04",
+     "followers": 75,
+     "following": 213,
+     "liked": 1226,
+     "posts": 20
     }
    ],
    "_probe": {
@@ -929,7 +945,7 @@
     "tries": 1,
     "add": 5
    },
-   "profileAt": "2026-11-03T13:03:34.309Z",
+   "profileAt": "2026-11-03T18:54:24.094Z",
    "posts": [
     {
      "id": "7700242879536628965",
@@ -1564,13 +1580,13 @@
    "douyinId": "ww237729",
    "postCount": 1,
    "ipLocation": "广东",
-   "ipAt": "2026-11-03T13:03:34.309Z",
+   "ipAt": "2026-11-03T18:54:24.095Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/f27ph20k0ilubr0/v_gixiclk_n2m_ce3_foiu_2oxismwiu8.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_919ce9fa47679563f80c81a1574df2eb.jpeg?from=2956013662",
    "signature": "希望你能记得我.",
    "verify": "",
    "verifyType": "none",
-   "followerCount": 20,
+   "followerCount": 19,
    "followingCount": 9,
    "totalFavorited": 266,
    "awemeCount": 1,
@@ -1762,6 +1778,14 @@
      "following": 9,
      "liked": 266,
      "posts": 1
+    },
+    {
+     "at": "2026-11-03T18:54:24.095Z",
+     "day": "2026-11-04",
+     "followers": 19,
+     "following": 9,
+     "liked": 266,
+     "posts": 1
     }
    ],
    "_probe": {
@@ -1803,7 +1827,7 @@
     "pages": 0,
     "why": "skip"
    },
-   "profileAt": "2026-11-03T13:03:34.309Z",
+   "profileAt": "2026-11-03T18:54:24.095Z",
    "posts": [
     {
      "id": "7697980969253375141",
@@ -1912,20 +1936,20 @@
   ]
  },
  "_diag": {
-  "at": "2026-11-03T12:55:51.372Z",
+  "at": "2026-11-03T18:55:54.858Z",
   "code": 1,
   "everyMin": 40,
   "fresh": 0,
   "freshList": [],
-  "nextAt": "2026-11-03T13:35:49.745Z",
+  "nextAt": "2026-11-03T19:35:53.188Z",
   "pid": 1,
   "removed": 0,
   "removedList": [],
-  "round": 72,
+  "round": 81,
   "seconds": 2,
   "stage": "done",
   "tail": "[accounts] 用仓库名单 3 个 | [state] 已知作品 31 | [err] file:///app/node_modules/@puppeteer/browsers/lib/esm/launch.js:303 | reject(new Error([ | ^ | Error: Failed to launch the browser process! spawn /app/data/browsers/chrome-headless-shell/linux-156.0.8078.73/chrome-headless-shell-linux64/chrome-headless-shell EAGAIN | TROUBLESHOOTING: https://pptr.dev/troubleshooting | at ChildProcess.onClose (file:///app/node_modules/@puppeteer/browsers/lib/esm/launch.js:303:24) | at ChildProcess.emit (node:events:524:28) | at ChildProcess._handle.onexit (node:internal/child_process:291:12) | at onErrorNT (node:internal/child_process:483:16) | at process.processTicksAndRejections (node:internal/process/task_queues:82:21) | Node.js v20.20.2",
-  "uptimeMin": 2857
+  "uptimeMin": 3217
  },
  "_trigger": {
   "at": "2026-10-31T04:39:58.266Z",
