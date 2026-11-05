@@ -1,5 +1,5 @@
 {
- "syncedAt": "2026-11-05T07:12:37.085Z",
+ "syncedAt": "2026-11-05T13:11:29.380Z",
  "accounts": [
   {
    "secUid": "MS4wLjABAAAAGUIXLVBVRv48mNYj4ieU5HU7y6iXSST_Whana-c8Jts6t-AtB_A2b_aB4_sENp5T",
@@ -7,15 +7,15 @@
    "douyinId": "endjfjk",
    "postCount": 10,
    "ipLocation": "广西",
-   "ipAt": "2026-11-05T07:10:59.008Z",
+   "ipAt": "2026-11-05T13:09:10.002Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/mou217f1i662p5p/s6t_at_ba2ba_b4s_enp5_t_ykwhb9zdca.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_29460abd1df1cf3c14840273fec0995d.jpeg?from=2956013662",
    "signature": "( ,,>ヮ<,,) =\n小宝贝：@小钢牙",
    "verify": "",
    "verifyType": "none",
-   "followerCount": 273,
+   "followerCount": 274,
    "followingCount": 80,
-   "totalFavorited": 37773,
+   "totalFavorited": 37788,
    "awemeCount": 10,
    "live": {
     "isLive": false,
@@ -330,38 +330,73 @@
      "following": 80,
      "liked": 37773,
      "posts": 10
+    },
+    {
+     "at": "2026-11-05T13:09:10.002Z",
+     "day": "2026-11-05",
+     "followers": 274,
+     "following": 80,
+     "liked": 37788,
+     "posts": 10
     }
    ],
    "_probe": {
-    "listOk": false,
-    "keys": [],
-    "stat": null,
-    "ct": null
+    "listOk": true,
+    "keys": [
+     "aweme_id",
+     "desc",
+     "cha_list",
+     "video",
+     "statistics",
+     "text_extra",
+     "video_labels",
+     "aweme_type",
+     "image_infos",
+     "comment_list",
+     "geofencing",
+     "video_text",
+     "label_top_text",
+     "promotions",
+     "long_video",
+     "images",
+     "chapter_list",
+     "interaction_stickers",
+     "img_bitrate",
+     "chapter_bar_color",
+     "common_labels"
+    ],
+    "stat": {
+     "digg_count": 2355
+    },
+    "ct": null,
+    "dur": null,
+    "awemeType": 68,
+    "imgCount": 0
    },
-   "listStop": "",
-   "listPages": 0,
+   "listStop": "no-new",
+   "listPages": 2,
    "listPc": {
     "via": "sign",
     "pages": 1,
     "why": "enough",
     "got": 10,
     "tries": 1,
-    "add": 10
+    "add": 1
    },
-   "profileAt": "2026-11-05T07:10:59.008Z",
+   "profileAt": "2026-11-05T13:09:10.002Z",
    "posts": [
     {
      "id": "7699007556488458427",
      "account": "endjfjk",
      "type": "note",
      "desc": "我跋山涉水 生命就随我流动#双鱼",
-     "digg": 2341,
+     "digg": 2355,
      "commentCount": 21,
      "collectCount": 143,
      "shareCount": 65,
      "playCount": 0,
-     "createdAt": 1792564886,
-     "publishedAt": "2026-10-21T06:41:26.000Z",
+     "createdAt": 1792564884,
+     "publishedAt": "2026-10-21T06:41:24.000Z",
      "durationMs": 0,
      "tags": [
       "双鱼"
@@ -479,8 +514,8 @@
      "collectCount": 67,
      "shareCount": 36,
      "playCount": 0,
-     "createdAt": 1771244192,
-     "publishedAt": "2026-02-16T12:16:32.000Z",
+     "createdAt": 1771244191,
+     "publishedAt": "2026-02-16T12:16:31.000Z",
      "durationMs": 0,
      "tags": [
       "双鱼"
@@ -508,8 +543,8 @@
      "collectCount": 12,
      "shareCount": 17,
      "playCount": 0,
-     "createdAt": 1770213235,
-     "publishedAt": "2026-02-04T13:53:55.000Z",
+     "createdAt": 1770213233,
+     "publishedAt": "2026-02-04T13:53:53.000Z",
      "durationMs": 0,
      "tags": [
       "双鱼"
@@ -537,8 +572,8 @@
      "collectCount": 455,
      "shareCount": 166,
      "playCount": 0,
-     "createdAt": 1764931810,
-     "publishedAt": "2025-12-05T10:50:10.000Z",
+     "createdAt": 1764931807,
+     "publishedAt": "2025-12-05T10:50:07.000Z",
      "durationMs": 0,
      "tags": [
       "双鱼"
@@ -566,8 +601,8 @@
      "collectCount": 870,
      "shareCount": 502,
      "playCount": 0,
-     "createdAt": 1763901978,
-     "publishedAt": "2025-11-23T12:46:18.000Z",
+     "createdAt": 1763901973,
+     "publishedAt": "2025-11-23T12:46:13.000Z",
      "durationMs": 0,
      "tags": [
       "双鱼"
@@ -590,13 +625,13 @@
      "account": "endjfjk",
      "type": "note",
      "desc": "一切都是男的骗我 女的欠我 老的冤枉我 小的欺负我 身边的霸凌我 网上的笑话我 你们全都对不起我#双鱼",
-     "digg": 14094,
+     "digg": 14100,
      "commentCount": 79,
-     "collectCount": 1702,
+     "collectCount": 1701,
      "shareCount": 722,
      "playCount": 0,
-     "createdAt": 1762166589,
-     "publishedAt": "2025-11-03T10:43:09.000Z",
+     "createdAt": 1762166584,
+     "publishedAt": "2025-11-03T10:43:04.000Z",
      "durationMs": 0,
      "tags": [
       "双鱼"
@@ -624,8 +659,8 @@
      "collectCount": 6,
      "shareCount": 28,
      "playCount": 0,
-     "createdAt": 1727001198,
-     "publishedAt": "2024-09-22T10:33:18.000Z",
+     "createdAt": 1727001177,
+     "publishedAt": "2024-09-22T10:32:57.000Z",
      "durationMs": 0,
      "tags": [
       "双鱼"
@@ -651,7 +686,7 @@
    "douyinId": "yi1315987",
    "postCount": 20,
    "ipLocation": "广西",
-   "ipAt": "2026-11-05T07:10:59.016Z",
+   "ipAt": "2026-11-05T13:09:10.016Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/4h15zff23fdlf44/oli_yumxw8dft_l0_ed_xw_infpago77w.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-0813_oYVkIoeaAONrYW8DAAnAQSAF9JlgCCAAAYDybf.jpeg?from=2956013662",
    "signature": "",
@@ -659,7 +694,7 @@
    "verifyType": "none",
    "followerCount": 76,
    "followingCount": 213,
-   "totalFavorited": 1252,
+   "totalFavorited": 1256,
    "awemeCount": 21,
    "live": {
     "isLive": false,
@@ -969,6 +1004,14 @@
      "following": 213,
      "liked": 1252,
      "posts": 21
+    },
+    {
+     "at": "2026-11-05T13:09:10.016Z",
+     "day": "2026-11-05",
+     "followers": 76,
+     "following": 213,
+     "liked": 1256,
+     "posts": 21
     }
    ],
    "_probe": {
@@ -1016,15 +1059,15 @@
     "pc": {
      "pages": 0,
      "why": "idle",
-     "res": 1,
+     "res": 2,
      "scrolls": 5,
      "title": "wo八方来财的抖音 - 抖音",
      "login": false,
-     "api": "https://www.douyin.com/aweme/v1/web/aweme/post/",
+     "api": "https://www-hj.douyin.com/aweme/v1/web/aweme/post/",
      "add": 0
     }
    },
-   "profileAt": "2026-11-05T07:10:59.016Z",
+   "profileAt": "2026-11-05T13:09:10.016Z",
    "posts": [
     {
      "id": "7700242879536628965",
@@ -1185,7 +1228,7 @@
      "images": [
       "https://dywall-m4k7.web.zaka.live/api/files/wall_media/sdkazvb3rus05yw/7699048217669457316_0_wc74l0c9pi.jpg"
      ],
-     "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/dcj2kxi5djipeaf/7699048217669457316_lfap0qfvh1.mp3",
+     "music": null,
      "videoId": null,
      "ok": true,
      "imgTotal": 1,
@@ -1390,13 +1433,11 @@
      "products": [],
      "duration": 0,
      "cover": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/m9pmqcd4axqm92u/7577674393926087077_bewe6i5d31.jpg",
-     "images": [
-      "https://dywall-m4k7.web.zaka.live/api/files/wall_media/hyns98if19rhqt2/7577674393926087077_0_ai52na8x6g.jpg"
-     ],
+     "images": [],
      "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/cqn4yyy7d3v7p86/7577674393926087077_09d5zldl4y.mp3",
      "videoId": null,
-     "ok": true,
-     "imgTotal": 1,
+     "ok": false,
+     "imgTotal": 0,
      "imgSrc": "list",
      "imgTry": 1
     },
@@ -1659,7 +1700,7 @@
    "douyinId": "ww237729",
    "postCount": 1,
    "ipLocation": "广东",
-   "ipAt": "2026-11-05T07:10:59.016Z",
+   "ipAt": "2026-11-05T13:09:10.016Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/f27ph20k0ilubr0/v_gixiclk_n2m_ce3_foiu_2oxismwiu8.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_919ce9fa47679563f80c81a1574df2eb.jpeg?from=2956013662",
    "signature": "希望你能记得我.",
@@ -1913,6 +1954,14 @@
      "following": 9,
      "liked": 266,
      "posts": 1
+    },
+    {
+     "at": "2026-11-05T13:09:10.016Z",
+     "day": "2026-11-05",
+     "followers": 19,
+     "following": 9,
+     "liked": 266,
+     "posts": 1
     }
    ],
    "_probe": {
@@ -1954,7 +2003,7 @@
     "pages": 0,
     "why": "skip"
    },
-   "profileAt": "2026-11-05T07:10:59.016Z",
+   "profileAt": "2026-11-05T13:09:10.016Z",
    "posts": [
     {
      "id": "7697980969253375141",
@@ -1990,10 +2039,21 @@
  ],
  "_stat": {
   "fill": 20,
-  "filled": 16,
+  "filled": 20,
   "viaApi": 0,
-  "viaPage": 16,
+  "viaPage": 20,
   "probe": [
+   {
+    "id": "7417413575377046838",
+    "type": "note",
+    "got": {
+     "like": 336,
+     "comment": 16,
+     "collect": 6,
+     "share": 28,
+     "time": 0
+    }
+   },
    {
     "id": "7555415237287365947",
     "type": "note",
@@ -2013,6 +2073,17 @@
      "comment": 10,
      "collect": 1,
      "share": 0,
+     "time": 0
+    }
+   },
+   {
+    "id": "7568447850805261285",
+    "type": "note",
+    "got": {
+     "like": 14100,
+     "comment": 79,
+     "collect": 1701,
+     "share": 722,
      "time": 0
     }
    },
@@ -2037,46 +2108,24 @@
      "share": 0,
      "time": 0
     }
-   },
-   {
-    "id": "7577674393926087077",
-    "type": "note",
-    "got": {
-     "like": 36,
-     "comment": 4,
-     "collect": 1,
-     "share": 5,
-     "time": 0
-    }
-   },
-   {
-    "id": "7582239742185278778",
-    "type": "note",
-    "got": {
-     "like": 69,
-     "comment": 14,
-     "collect": 4,
-     "share": 2,
-     "time": 0
-    }
    }
   ]
  },
  "_diag": {
-  "at": "2026-11-05T06:52:56.598Z",
+  "at": "2026-11-05T12:52:58.966Z",
   "code": 1,
   "everyMin": 40,
   "fresh": 0,
   "freshList": [],
-  "nextAt": "2026-11-05T07:32:55.123Z",
+  "nextAt": "2026-11-05T13:32:57.177Z",
   "pid": 1,
   "removed": 0,
   "removedList": [],
-  "round": 137,
-  "seconds": 1,
+  "round": 146,
+  "seconds": 2,
   "stage": "done",
   "tail": "[accounts] 用仓库名单 3 个 | [state] 已知作品 31 | [err] file:///app/node_modules/@puppeteer/browsers/lib/esm/launch.js:303 | reject(new Error([ | ^ | Error: Failed to launch the browser process! spawn /app/data/browsers/chrome-headless-shell/linux-156.0.8078.73/chrome-headless-shell-linux64/chrome-headless-shell EAGAIN | TROUBLESHOOTING: https://pptr.dev/troubleshooting | at ChildProcess.onClose (file:///app/node_modules/@puppeteer/browsers/lib/esm/launch.js:303:24) | at ChildProcess.emit (node:events:524:28) | at ChildProcess._handle.onexit (node:internal/child_process:291:12) | at onErrorNT (node:internal/child_process:483:16) | at process.processTicksAndRejections (node:internal/process/task_queues:82:21) | Node.js v20.20.2",
-  "uptimeMin": 5374
+  "uptimeMin": 5734
  },
  "_trigger": {
   "at": "2026-11-05T06:12:48.705Z",
