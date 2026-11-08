@@ -1,5 +1,5 @@
 {
- "syncedAt": "2026-11-08T07:00:03.428Z",
+ "syncedAt": "2026-11-08T12:58:07.046Z",
  "accounts": [
   {
    "secUid": "MS4wLjABAAAAGUIXLVBVRv48mNYj4ieU5HU7y6iXSST_Whana-c8Jts6t-AtB_A2b_aB4_sENp5T",
@@ -7,7 +7,7 @@
    "douyinId": "endjfjk",
    "postCount": 10,
    "ipLocation": "广西",
-   "ipAt": "2026-11-08T06:58:04.182Z",
+   "ipAt": "2026-11-08T12:56:11.964Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/2j1mrl8fc7s18c3/s6t_at_ba2ba_b4s_enp5_t_tarxp5wcql.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_29460abd1df1cf3c14840273fec0995d.jpeg?from=2956013662",
    "signature": "( ,,>ヮ<,,) =\n小宝贝：@小钢牙",
@@ -15,7 +15,7 @@
    "verifyType": "none",
    "followerCount": 274,
    "followingCount": 81,
-   "totalFavorited": 37927,
+   "totalFavorited": 37931,
    "awemeCount": 10,
    "live": {
     "isLive": false,
@@ -410,38 +410,73 @@
      "following": 81,
      "liked": 37927,
      "posts": 10
+    },
+    {
+     "at": "2026-11-08T12:56:11.964Z",
+     "day": "2026-11-08",
+     "followers": 274,
+     "following": 81,
+     "liked": 37931,
+     "posts": 10
     }
    ],
    "_probe": {
-    "listOk": false,
-    "keys": [],
-    "stat": null,
-    "ct": null
+    "listOk": true,
+    "keys": [
+     "aweme_id",
+     "desc",
+     "cha_list",
+     "video",
+     "statistics",
+     "text_extra",
+     "video_labels",
+     "aweme_type",
+     "image_infos",
+     "comment_list",
+     "geofencing",
+     "video_text",
+     "label_top_text",
+     "promotions",
+     "long_video",
+     "images",
+     "chapter_list",
+     "interaction_stickers",
+     "img_bitrate",
+     "chapter_bar_color",
+     "common_labels"
+    ],
+    "stat": {
+     "digg_count": 2502
+    },
+    "ct": null,
+    "dur": null,
+    "awemeType": 68,
+    "imgCount": 0
    },
-   "listStop": "",
-   "listPages": 0,
+   "listStop": "no-new",
+   "listPages": 2,
    "listPc": {
     "via": "sign",
-    "pages": 1,
+    "pages": 2,
     "why": "enough",
     "got": 10,
     "tries": 1,
-    "add": 10
+    "add": 1
    },
-   "profileAt": "2026-11-08T06:58:04.182Z",
+   "profileAt": "2026-11-08T12:56:11.964Z",
    "posts": [
     {
      "id": "7699007556488458427",
      "account": "endjfjk",
      "type": "note",
      "desc": "我跋山涉水 生命就随我流动#双鱼",
-     "digg": 2498,
+     "digg": 2502,
      "commentCount": 21,
      "collectCount": 159,
      "shareCount": 71,
      "playCount": 0,
-     "createdAt": 1792564886,
-     "publishedAt": "2026-10-21T06:41:26.000Z",
+     "createdAt": 1792564884,
+     "publishedAt": "2026-10-21T06:41:24.000Z",
      "durationMs": 0,
      "tags": [
       "双鱼"
@@ -481,7 +516,7 @@
      "images": [
       "https://dywall-m4k7.web.zaka.live/api/files/wall_media/ntvkht4w4odfmu1/7679482485454220145_0_a0nkiivac3.jpg"
      ],
-     "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/itwp7sy44oq1nht/7679482485454220145_7sdbjzei6z.mp3",
+     "music": null,
      "videoId": null,
      "ok": true,
      "imgTotal": 1,
@@ -510,7 +545,7 @@
      "images": [
       "https://dywall-m4k7.web.zaka.live/api/files/wall_media/ks9oo5j2j114kks/7644881036137423097_0_u64cz100xi.jpg"
      ],
-     "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/2tm60f7o4bla08l/7644881036137423097_z3vxesqwlv.mp3",
+     "music": null,
      "videoId": null,
      "ok": true,
      "imgTotal": 1,
@@ -559,8 +594,8 @@
      "collectCount": 67,
      "shareCount": 36,
      "playCount": 0,
-     "createdAt": 1771244192,
-     "publishedAt": "2026-02-16T12:16:32.000Z",
+     "createdAt": 1771244191,
+     "publishedAt": "2026-02-16T12:16:31.000Z",
      "durationMs": 0,
      "tags": [
       "双鱼"
@@ -588,8 +623,8 @@
      "collectCount": 12,
      "shareCount": 17,
      "playCount": 0,
-     "createdAt": 1770213235,
-     "publishedAt": "2026-02-04T13:53:55.000Z",
+     "createdAt": 1770213233,
+     "publishedAt": "2026-02-04T13:53:53.000Z",
      "durationMs": 0,
      "tags": [
       "双鱼"
@@ -617,8 +652,8 @@
      "collectCount": 454,
      "shareCount": 166,
      "playCount": 0,
-     "createdAt": 1764931810,
-     "publishedAt": "2025-12-05T10:50:10.000Z",
+     "createdAt": 1764931807,
+     "publishedAt": "2025-12-05T10:50:07.000Z",
      "durationMs": 0,
      "tags": [
       "双鱼"
@@ -646,8 +681,8 @@
      "collectCount": 870,
      "shareCount": 502,
      "playCount": 0,
-     "createdAt": 1763901978,
-     "publishedAt": "2025-11-23T12:46:18.000Z",
+     "createdAt": 1763901973,
+     "publishedAt": "2025-11-23T12:46:13.000Z",
      "durationMs": 0,
      "tags": [
       "双鱼"
@@ -670,13 +705,13 @@
      "account": "endjfjk",
      "type": "note",
      "desc": "一切都是男的骗我 女的欠我 老的冤枉我 小的欺负我 身边的霸凌我 网上的笑话我 你们全都对不起我#双鱼",
-     "digg": 14092,
+     "digg": 14100,
      "commentCount": 79,
      "collectCount": 1699,
      "shareCount": 722,
      "playCount": 0,
-     "createdAt": 1762166589,
-     "publishedAt": "2025-11-03T10:43:09.000Z",
+     "createdAt": 1762166584,
+     "publishedAt": "2025-11-03T10:43:04.000Z",
      "durationMs": 0,
      "tags": [
       "双鱼"
@@ -704,8 +739,8 @@
      "collectCount": 6,
      "shareCount": 28,
      "playCount": 0,
-     "createdAt": 1727001198,
-     "publishedAt": "2024-09-22T10:33:18.000Z",
+     "createdAt": 1727001177,
+     "publishedAt": "2024-09-22T10:32:57.000Z",
      "durationMs": 0,
      "tags": [
       "双鱼"
@@ -713,13 +748,11 @@
      "products": [],
      "duration": 0,
      "cover": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/lzqwxmrqbm5xujm/7417413575377046838_wly5arkqwh.jpg",
-     "images": [
-      "https://dywall-m4k7.web.zaka.live/api/files/wall_media/8odcrsyy1a2zdxz/7417413575377046838_0_hvrwwajvsz.jpg"
-     ],
-     "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/icwnmvpfeq9oaws/7417413575377046838_dssanja9wi.mp3",
+     "images": [],
+     "music": null,
      "videoId": null,
-     "ok": true,
-     "imgTotal": 1,
+     "ok": false,
+     "imgTotal": 0,
      "imgSrc": "list",
      "imgTry": 1
     }
@@ -731,7 +764,7 @@
    "douyinId": "yi1315987",
    "postCount": 21,
    "ipLocation": "广东",
-   "ipAt": "2026-11-08T06:58:04.197Z",
+   "ipAt": "2026-11-08T12:56:11.975Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/enaswrjdu7aa7th/oli_yumxw8dft_l0_ed_xw_qb7vl88vwk.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-0813_oYVkIoeaAONrYW8DAAnAQSAF9JlgCCAAAYDybf.jpeg?from=2956013662",
    "signature": "",
@@ -1129,6 +1162,14 @@
      "following": 213,
      "liked": 1265,
      "posts": 21
+    },
+    {
+     "at": "2026-11-08T12:56:11.975Z",
+     "day": "2026-11-08",
+     "followers": 76,
+     "following": 213,
+     "liked": 1265,
+     "posts": 21
     }
    ],
    "_probe": {
@@ -1176,15 +1217,15 @@
     "pc": {
      "pages": 0,
      "why": "idle",
-     "res": 1,
+     "res": 4,
      "scrolls": 5,
      "title": "wo八方来财的抖音 - 抖音",
      "login": false,
-     "api": "https://www.douyin.com/aweme/v1/web/aweme/post/",
+     "api": "https://www-hj.douyin.com/aweme/v1/web/aweme/post/",
      "add": 0
     }
    },
-   "profileAt": "2026-11-08T06:58:04.197Z",
+   "profileAt": "2026-11-08T12:56:11.975Z",
    "posts": [
     {
      "account": "yi1315987",
@@ -1270,7 +1311,7 @@
       "https://dywall-m4k7.web.zaka.live/api/files/wall_media/w0un66x4rhzr7qn/7700242879536628965_22_40qgjgmiaa.jpg",
       "https://dywall-m4k7.web.zaka.live/api/files/wall_media/n6p4otkk67g1gzg/7700242879536628965_23_266kfu76tm.jpg"
      ],
-     "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/tgxq3bo64iumcma/7700242879536628965_u7qr3r1kvn.mp3",
+     "music": null,
      "videoId": null,
      "ok": true,
      "imgTotal": 24,
@@ -1412,7 +1453,7 @@
      "images": [
       "https://dywall-m4k7.web.zaka.live/api/files/wall_media/a4npnepl5r59r9b/7698768041774444017_0_oantorwczw.jpg"
      ],
-     "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/7no2q21n5yoxewi/7698768041774444017_lu4jddgb5w.mp3",
+     "music": null,
      "videoId": null,
      "ok": true,
      "imgTotal": 1,
@@ -1590,7 +1631,7 @@
      "images": [
       "https://dywall-m4k7.web.zaka.live/api/files/wall_media/hyns98if19rhqt2/7577674393926087077_0_ai52na8x6g.jpg"
      ],
-     "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/cqn4yyy7d3v7p86/7577674393926087077_09d5zldl4y.mp3",
+     "music": null,
      "videoId": null,
      "ok": true,
      "imgTotal": 1,
@@ -1619,7 +1660,7 @@
      "images": [
       "https://dywall-m4k7.web.zaka.live/api/files/wall_media/akpipmw5fpghjgj/7572194535042048101_0_ud5krlyg7r.jpg"
      ],
-     "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/aiolm28fvr7rvk5/7572194535042048101_i74r2oafbi.mp3",
+     "music": null,
      "videoId": null,
      "ok": true,
      "imgTotal": 1,
@@ -1856,7 +1897,7 @@
    "douyinId": "ww237729",
    "postCount": 1,
    "ipLocation": "广东",
-   "ipAt": "2026-11-08T06:58:04.197Z",
+   "ipAt": "2026-11-08T12:56:11.975Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/3wwwc6bxvmzoku6/v_gixiclk_n2m_ce3_foiu_gwei4zpzpc.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_919ce9fa47679563f80c81a1574df2eb.jpeg?from=2956013662",
    "signature": "希望你能记得我.",
@@ -2190,6 +2231,14 @@
      "following": 9,
      "liked": 266,
      "posts": 1
+    },
+    {
+     "at": "2026-11-08T12:56:11.975Z",
+     "day": "2026-11-08",
+     "followers": 19,
+     "following": 9,
+     "liked": 266,
+     "posts": 1
     }
    ],
    "_probe": {
@@ -2231,7 +2280,7 @@
     "pages": 0,
     "why": "skip"
    },
-   "profileAt": "2026-11-08T06:58:04.197Z",
+   "profileAt": "2026-11-08T12:56:11.975Z",
    "posts": [
     {
      "id": "7697980969253375141",
@@ -2255,7 +2304,7 @@
      "images": [
       "https://dywall-m4k7.web.zaka.live/api/files/wall_media/0bdio1njhzwzohu/7697980969253375141_0_320ureqbk7.jpg"
      ],
-     "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/3wxmn5udj75v39l/7697980969253375141_y96u5laucc.mp3",
+     "music": null,
      "videoId": null,
      "ok": true,
      "imgTotal": 1,
@@ -2267,10 +2316,21 @@
  ],
  "_stat": {
   "fill": 20,
-  "filled": 16,
+  "filled": 20,
   "viaApi": 0,
-  "viaPage": 16,
+  "viaPage": 20,
   "probe": [
+   {
+    "id": "7417413575377046838",
+    "type": "note",
+    "got": {
+     "like": 336,
+     "comment": 16,
+     "collect": 6,
+     "share": 28,
+     "time": 0
+    }
+   },
    {
     "id": "7555415237287365947",
     "type": "note",
@@ -2290,6 +2350,17 @@
      "comment": 10,
      "collect": 1,
      "share": 0,
+     "time": 0
+    }
+   },
+   {
+    "id": "7568447850805261285",
+    "type": "note",
+    "got": {
+     "like": 14100,
+     "comment": 79,
+     "collect": 1699,
+     "share": 722,
      "time": 0
     }
    },
@@ -2314,48 +2385,27 @@
      "share": 0,
      "time": 0
     }
-   },
-   {
-    "id": "7577674393926087077",
-    "type": "note",
-    "got": {
-     "like": 36,
-     "comment": 4,
-     "collect": 1,
-     "share": 5,
-     "time": 0
-    }
-   },
-   {
-    "id": "7582239742185278778",
-    "type": "note",
-    "got": {
-     "like": 69,
-     "comment": 14,
-     "collect": 4,
-     "share": 2,
-     "time": 0
-    }
    }
   ]
  },
  "_diag": {
-  "args": "--no-zygote --renderer-process-limit=1 --disable-gpu --disable-dev-shm-usage",
-  "at": "2026-11-08T06:14:50.155Z",
-  "ch": "chrome",
+  "at": "2026-11-08T12:42:24.960Z",
   "code": 1,
   "everyMin": 40,
   "fresh": 0,
-  "nextAt": "2026-11-08T06:54:50.155Z",
+  "freshList": [],
+  "nextAt": "2026-11-08T13:22:23.353Z",
   "pid": 1,
-  "round": 241,
-  "runner": "v5",
-  "seconds": 2185,
+  "removed": 0,
+  "removedList": [],
+  "round": 268,
+  "seconds": 2,
   "stage": "done",
-  "tail": "TargetCloseError: Protocol error (Network.setUserAgentOverride): Session closed. Most likely the page has been closed. |     at Plugin.onPageCreated (/app/node_modules/puppeteer-extra-plugin-stealth/e"
+  "tail": "[accounts] 用仓库名单 3 个 | [state] 已知作品 31 | [err] file:///app/node_modules/@puppeteer/browsers/lib/esm/launch.js:303 | reject(new Error([ | ^ | Error: Failed to launch the browser process! spawn /app/data/browsers/chrome-headless-shell/linux-156.0.8078.73/chrome-headless-shell-linux64/chrome-headless-shell EAGAIN | TROUBLESHOOTING: https://pptr.dev/troubleshooting | at ChildProcess.onClose (file:///app/node_modules/@puppeteer/browsers/lib/esm/launch.js:303:24) | at ChildProcess.emit (node:events:524:28) | at ChildProcess._handle.onexit (node:internal/child_process:291:12) | at onErrorNT (node:internal/child_process:483:16) | at process.processTicksAndRejections (node:internal/process/task_queues:82:21) | Node.js v20.20.2",
+  "uptimeMin": 10043
  },
  "_trigger": {
-  "at": "2026-11-08T05:11:05.105Z",
-  "id": "mw7djrf5-7iro7"
+  "at": "2026-11-08T11:22:08.607Z",
+  "id": "mw7qsy1r-o0k2d"
  }
 }
