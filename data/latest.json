@@ -1,5 +1,5 @@
 {
- "syncedAt": "2026-11-08T18:47:55.112Z",
+ "syncedAt": "2026-11-09T00:54:07.517Z",
  "accounts": [
   {
    "secUid": "MS4wLjABAAAAGUIXLVBVRv48mNYj4ieU5HU7y6iXSST_Whana-c8Jts6t-AtB_A2b_aB4_sENp5T",
@@ -7,7 +7,7 @@
    "douyinId": "endjfjk",
    "postCount": 10,
    "ipLocation": "广西",
-   "ipAt": "2026-11-08T18:45:29.687Z",
+   "ipAt": "2026-11-09T00:52:22.322Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/2j1mrl8fc7s18c3/s6t_at_ba2ba_b4s_enp5_t_tarxp5wcql.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_29460abd1df1cf3c14840273fec0995d.jpeg?from=2956013662",
    "signature": "( ,,>ヮ<,,) =\n小宝贝：@小钢牙",
@@ -426,6 +426,14 @@
      "following": 81,
      "liked": 37932,
      "posts": 10
+    },
+    {
+     "at": "2026-11-09T00:52:22.322Z",
+     "day": "2026-11-09",
+     "followers": 272,
+     "following": 81,
+     "liked": 37932,
+     "posts": 10
     }
    ],
    "_probe": {
@@ -471,7 +479,7 @@
     "tries": 1,
     "add": 1
    },
-   "profileAt": "2026-11-08T18:45:29.687Z",
+   "profileAt": "2026-11-09T00:52:22.322Z",
    "posts": [
     {
      "id": "7699007556488458427",
@@ -480,7 +488,7 @@
      "desc": "我跋山涉水 生命就随我流动#双鱼",
      "digg": 2503,
      "commentCount": 21,
-     "collectCount": 158,
+     "collectCount": 157,
      "shareCount": 71,
      "playCount": 0,
      "createdAt": 1792564884,
@@ -553,7 +561,7 @@
      "images": [
       "https://dywall-m4k7.web.zaka.live/api/files/wall_media/ks9oo5j2j114kks/7644881036137423097_0_u64cz100xi.jpg"
      ],
-     "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/2tm60f7o4bla08l/7644881036137423097_z3vxesqwlv.mp3",
+     "music": null,
      "videoId": null,
      "ok": true,
      "imgTotal": 1,
@@ -774,7 +782,7 @@
    "douyinId": "yi1315987",
    "postCount": 21,
    "ipLocation": "广东",
-   "ipAt": "2026-11-08T18:45:29.701Z",
+   "ipAt": "2026-11-09T00:52:22.331Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/enaswrjdu7aa7th/oli_yumxw8dft_l0_ed_xw_qb7vl88vwk.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-0813_oYVkIoeaAONrYW8DAAnAQSAF9JlgCCAAAYDybf.jpeg?from=2956013662",
    "signature": "",
@@ -1180,6 +1188,14 @@
      "following": 213,
      "liked": 1265,
      "posts": 21
+    },
+    {
+     "at": "2026-11-09T00:52:22.331Z",
+     "day": "2026-11-09",
+     "followers": 76,
+     "following": 213,
+     "liked": 1265,
+     "posts": 21
     }
    ],
    "_probe": {
@@ -1227,15 +1243,15 @@
     "pc": {
      "pages": 0,
      "why": "idle",
-     "res": 2,
+     "res": 1,
      "scrolls": 5,
      "title": "wo八方来财的抖音 - 抖音",
      "login": false,
-     "api": "https://www-hj.douyin.com/aweme/v1/web/aweme/post/",
+     "api": "https://www.douyin.com/aweme/v1/web/aweme/post/",
      "add": 0
     }
    },
-   "profileAt": "2026-11-08T18:45:29.701Z",
+   "profileAt": "2026-11-09T00:52:22.331Z",
    "posts": [
     {
      "account": "yi1315987",
@@ -1905,9 +1921,9 @@
    "secUid": "MS4wLjABAAAAbocR3IAophdNkBlc3QS7BNy-L3PVn0tJZYnNTGjkwPhWvGIXICl-kN2mCE3Foi-u",
    "nickname": "冬.",
    "douyinId": "ww237729",
-   "postCount": 2,
+   "postCount": 1,
    "ipLocation": "广东",
-   "ipAt": "2026-11-08T18:45:29.701Z",
+   "ipAt": "2026-11-09T00:52:22.331Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/3wwwc6bxvmzoku6/v_gixiclk_n2m_ce3_foiu_gwei4zpzpc.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_919ce9fa47679563f80c81a1574df2eb.jpeg?from=2956013662",
    "signature": "希望你能记得我.",
@@ -1915,8 +1931,8 @@
    "verifyType": "none",
    "followerCount": 19,
    "followingCount": 9,
-   "totalFavorited": 276,
-   "awemeCount": 2,
+   "totalFavorited": 266,
+   "awemeCount": 1,
    "live": {
     "isLive": false,
     "roomId": "",
@@ -2257,6 +2273,14 @@
      "following": 9,
      "liked": 276,
      "posts": 2
+    },
+    {
+     "at": "2026-11-09T00:52:22.331Z",
+     "day": "2026-11-09",
+     "followers": 19,
+     "following": 9,
+     "liked": 266,
+     "posts": 1
     }
    ],
    "_probe": {
@@ -2285,11 +2309,11 @@
      "common_labels"
     ],
     "stat": {
-     "digg_count": 10
+     "digg_count": 13
     },
     "ct": null,
     "dur": null,
-    "awemeType": 0,
+    "awemeType": 68,
     "imgCount": 0
    },
    "listStop": "no-new",
@@ -2298,34 +2322,8 @@
     "pages": 0,
     "why": "skip"
    },
-   "profileAt": "2026-11-08T18:45:29.701Z",
+   "profileAt": "2026-11-09T00:52:22.331Z",
    "posts": [
-    {
-     "id": "7705833139126637243",
-     "account": "ww237729",
-     "type": "video",
-     "desc": "曾经...#压弯路段",
-     "digg": 10,
-     "commentCount": null,
-     "collectCount": null,
-     "shareCount": null,
-     "playCount": 0,
-     "createdAt": 1794154089,
-     "publishedAt": "2026-11-08T16:08:09.000Z",
-     "durationMs": 10,
-     "tags": [
-      "压弯路段"
-     ],
-     "products": [],
-     "duration": 10,
-     "cover": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/er9p49yns7lsgvg/7705833139126637243_q10nbxcrlj.jpg",
-     "images": [],
-     "music": null,
-     "videoId": "v2800fgi0000dbo9sknog65jbd1vsm30",
-     "ok": true,
-     "videoUrl": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/9yv4p2ik5c0u3l7/7705833139126637243_0bb85ot8te.mp4",
-     "hd": true
-    },
     {
      "id": "7697980969253375141",
      "account": "ww237729",
@@ -2433,15 +2431,15 @@
   ]
  },
  "_diag": {
-  "at": "2026-11-08T18:45:53.639Z",
+  "at": "2026-11-09T00:45:53.730Z",
   "ch": "http",
   "code": 0,
   "everyMin": 15,
   "fresh": 0,
-  "nextAt": "2026-11-08T19:01:04.802Z",
-  "round": 19,
+  "nextAt": "2026-11-09T01:01:08.970Z",
+  "round": 45,
   "runner": "cf-worker",
-  "seconds": 11,
+  "seconds": 15,
   "stage": "done",
   "tail": "Worker 采集完成：3 个号 · 无浏览器进程"
  },
