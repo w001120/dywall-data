@@ -1,5 +1,5 @@
 {
- "syncedAt": "2026-11-10T00:50:29.697Z",
+ "syncedAt": "2026-11-10T07:12:39.519Z",
  "accounts": [
   {
    "secUid": "MS4wLjABAAAAGUIXLVBVRv48mNYj4ieU5HU7y6iXSST_Whana-c8Jts6t-AtB_A2b_aB4_sENp5T",
@@ -7,7 +7,7 @@
    "douyinId": "endjfjk",
    "postCount": 10,
    "ipLocation": "广西",
-   "ipAt": "2026-11-10T00:48:52.176Z",
+   "ipAt": "2026-11-10T07:10:26.552Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/2j1mrl8fc7s18c3/s6t_at_ba2ba_b4s_enp5_t_tarxp5wcql.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_29460abd1df1cf3c14840273fec0995d.jpeg?from=2956013662",
    "signature": "( ,,>ヮ<,,) =\n小宝贝：@小钢牙",
@@ -458,6 +458,14 @@
      "following": 81,
      "liked": 37940,
      "posts": 10
+    },
+    {
+     "at": "2026-11-10T07:10:26.552Z",
+     "day": "2026-11-10",
+     "followers": 272,
+     "following": 81,
+     "liked": 37940,
+     "posts": 10
     }
    ],
    "_probe": {
@@ -486,7 +494,7 @@
      "common_labels"
     ],
     "stat": {
-     "digg_count": 2511
+     "digg_count": 2512
     },
     "ct": null,
     "dur": null,
@@ -503,14 +511,14 @@
     "tries": 1,
     "add": 1
    },
-   "profileAt": "2026-11-10T00:48:52.176Z",
+   "profileAt": "2026-11-10T07:10:26.552Z",
    "posts": [
     {
      "id": "7699007556488458427",
      "account": "endjfjk",
      "type": "note",
      "desc": "我跋山涉水 生命就随我流动#双鱼",
-     "digg": 2511,
+     "digg": 2512,
      "commentCount": 21,
      "collectCount": 159,
      "shareCount": 71,
@@ -524,11 +532,13 @@
      "products": [],
      "duration": 0,
      "cover": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/v9w2g7wpaf8n1by/7699007556488458427_yyxm2tni52.jpg",
-     "images": [],
+     "images": [
+      "https://dywall-m4k7.web.zaka.live/api/files/wall_media/igaus2tdwk75pfo/7699007556488458427_0_1rohgpgzxg.jpg"
+     ],
      "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/duyh28ugqjv7rlk/7699007556488458427_le6r97kl01.mp3",
      "videoId": null,
-     "ok": false,
-     "imgTotal": 0,
+     "ok": true,
+     "imgTotal": 1,
      "imgSrc": "list",
      "imgTry": 1
     },
@@ -673,7 +683,7 @@
      "images": [
       "https://dywall-m4k7.web.zaka.live/api/files/wall_media/il18hsgozjy0um2/7603007946703794617_0_zdlbtk8177.jpg"
      ],
-     "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/5qp2674mcyratum/7603007946703794617_kim0eegkza.mp3",
+     "music": null,
      "videoId": null,
      "ok": true,
      "imgTotal": 1,
@@ -804,7 +814,7 @@
    "douyinId": "yi1315987",
    "postCount": 21,
    "ipLocation": "广东",
-   "ipAt": "2026-11-10T00:48:52.184Z",
+   "ipAt": "2026-11-10T07:10:26.566Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/enaswrjdu7aa7th/oli_yumxw8dft_l0_ed_xw_qb7vl88vwk.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-0813_oYVkIoeaAONrYW8DAAnAQSAF9JlgCCAAAYDybf.jpeg?from=2956013662",
    "signature": "",
@@ -1242,6 +1252,14 @@
      "following": 213,
      "liked": 1265,
      "posts": 21
+    },
+    {
+     "at": "2026-11-10T07:10:26.566Z",
+     "day": "2026-11-10",
+     "followers": 76,
+     "following": 213,
+     "liked": 1265,
+     "posts": 21
     }
    ],
    "_probe": {
@@ -1289,15 +1307,15 @@
     "pc": {
      "pages": 0,
      "why": "idle",
-     "res": 1,
+     "res": 2,
      "scrolls": 5,
      "title": "wo八方来财的抖音 - 抖音",
      "login": false,
-     "api": "https://www.douyin.com/aweme/v1/web/aweme/post/",
+     "api": "https://www-hj.douyin.com/aweme/v1/web/aweme/post/",
      "add": 0
     }
    },
-   "profileAt": "2026-11-10T00:48:52.184Z",
+   "profileAt": "2026-11-10T07:10:26.566Z",
    "posts": [
     {
      "account": "yi1315987",
@@ -1969,7 +1987,7 @@
    "douyinId": "ww237729",
    "postCount": 1,
    "ipLocation": "广东",
-   "ipAt": "2026-11-10T00:48:52.184Z",
+   "ipAt": "2026-11-10T07:10:26.567Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/3wwwc6bxvmzoku6/v_gixiclk_n2m_ce3_foiu_gwei4zpzpc.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_919ce9fa47679563f80c81a1574df2eb.jpeg?from=2956013662",
    "signature": "希望你能记得我.",
@@ -2337,7 +2355,15 @@
      "posts": 2
     },
     {
-     "at": "2026-11-10T00:48:52.184Z",
+     "at": "2026-11-10T06:45:52.290Z",
+     "day": "2026-11-10",
+     "followers": 19,
+     "following": 9,
+     "liked": 266,
+     "posts": 2
+    },
+    {
+     "at": "2026-11-10T07:10:26.567Z",
      "day": "2026-11-10",
      "followers": 19,
      "following": 9,
@@ -2384,7 +2410,7 @@
     "pages": 0,
     "why": "skip"
    },
-   "profileAt": "2026-11-10T00:48:52.184Z",
+   "profileAt": "2026-11-10T07:10:26.567Z",
    "posts": [
     {
      "id": "7697980969253375141",
@@ -2493,20 +2519,23 @@
   ]
  },
  "_diag": {
-  "at": "2026-11-10T00:45:52.479Z",
-  "ch": "http",
-  "code": 0,
-  "everyMin": 15,
+  "at": "2026-11-10T07:10:44.965Z",
+  "code": 1,
+  "everyMin": 40,
   "fresh": 0,
-  "nextAt": "2026-11-10T01:01:00.703Z",
-  "round": 141,
-  "runner": "cf-worker",
-  "seconds": 8,
+  "freshList": [],
+  "nextAt": "2026-11-10T07:50:43.206Z",
+  "pid": 1,
+  "removed": 0,
+  "removedList": [],
+  "round": 334,
+  "seconds": 2,
   "stage": "done",
-  "tail": "Worker 采集完成：3 个号 · 无浏览器进程"
+  "tail": "[accounts] 用仓库名单 3 个 | [state] 已知作品 31 | [err] file:///app/node_modules/@puppeteer/browsers/lib/esm/launch.js:303 | reject(new Error([ | ^ | Error: Failed to launch the browser process! spawn /app/data/browsers/chrome-headless-shell/linux-156.0.8078.73/chrome-headless-shell-linux64/chrome-headless-shell EAGAIN | TROUBLESHOOTING: https://pptr.dev/troubleshooting | at ChildProcess.onClose (file:///app/node_modules/@puppeteer/browsers/lib/esm/launch.js:303:24) | at ChildProcess.emit (node:events:524:28) | at ChildProcess._handle.onexit (node:internal/child_process:291:12) | at onErrorNT (node:internal/child_process:483:16) | at process.processTicksAndRejections (node:internal/process/task_queues:82:21) | Node.js v20.20.2",
+  "uptimeMin": 12592
  },
  "_trigger": {
-  "at": "2026-11-09T01:32:13.000Z",
-  "id": "t1794187933"
+  "at": "2026-11-10T01:10:37.908Z",
+  "id": "mw9zu8no-aw7s8"
  }
 }
