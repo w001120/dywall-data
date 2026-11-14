@@ -1,5 +1,5 @@
 {
- "syncedAt": "2026-11-14T12:57:27.264Z",
+ "syncedAt": "2026-11-14T18:47:22.498Z",
  "accounts": [
   {
    "secUid": "MS4wLjABAAAAGUIXLVBVRv48mNYj4ieU5HU7y6iXSST_Whana-c8Jts6t-AtB_A2b_aB4_sENp5T",
@@ -7,15 +7,15 @@
    "douyinId": "endjfjk",
    "postCount": 11,
    "ipLocation": "广西",
-   "ipAt": "2026-11-14T12:55:38.281Z",
-   "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/2j1mrl8fc7s18c3/s6t_at_ba2ba_b4s_enp5_t_tarxp5wcql.jpg",
+   "ipAt": "2026-11-14T18:45:41.303Z",
+   "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/mrftofbp38yy110/s6t_at_ba2ba_b4s_enp5_t_d0xz3atvx0.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_29460abd1df1cf3c14840273fec0995d.jpeg?from=2956013662",
    "signature": "( ,,>ヮ<,,) =\n小宝贝：@小钢牙",
    "verify": "",
    "verifyType": "none",
    "followerCount": 272,
    "followingCount": 81,
-   "totalFavorited": 38061,
+   "totalFavorited": 38065,
    "awemeCount": 11,
    "live": {
     "isLive": false,
@@ -578,6 +578,14 @@
      "following": 81,
      "liked": 38061,
      "posts": 11
+    },
+    {
+     "at": "2026-11-14T18:45:41.303Z",
+     "day": "2026-11-15",
+     "followers": 272,
+     "following": 81,
+     "liked": 38065,
+     "posts": 11
     }
    ],
    "_probe": {
@@ -606,7 +614,7 @@
      "common_labels"
     ],
     "stat": {
-     "digg_count": 2642
+     "digg_count": 2646
     },
     "ct": null,
     "dur": null,
@@ -623,14 +631,14 @@
     "tries": 1,
     "add": 1
    },
-   "profileAt": "2026-11-14T12:55:38.281Z",
+   "profileAt": "2026-11-14T18:45:41.303Z",
    "posts": [
     {
      "id": "7699007556488458427",
      "account": "endjfjk",
      "type": "note",
      "desc": "我跋山涉水 生命就随我流动#双鱼",
-     "digg": 2642,
+     "digg": 2646,
      "commentCount": 21,
      "collectCount": 166,
      "shareCount": 76,
@@ -911,7 +919,7 @@
      "images": [
       "https://dywall-m4k7.web.zaka.live/api/files/wall_media/588vxanconwr91b/7489751874988543290_0_yr33zcdfr0.jpg"
      ],
-     "music": null,
+     "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/od3vz80uq20tofa/7489751874988543290_43n19clr2t.mp3",
      "videoId": null,
      "ok": true,
      "imgTotal": 1,
@@ -937,11 +945,13 @@
      "products": [],
      "duration": 0,
      "cover": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/lzqwxmrqbm5xujm/7417413575377046838_wly5arkqwh.jpg",
-     "images": [],
+     "images": [
+      "https://dywall-m4k7.web.zaka.live/api/files/wall_media/8odcrsyy1a2zdxz/7417413575377046838_0_hvrwwajvsz.jpg"
+     ],
      "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/icwnmvpfeq9oaws/7417413575377046838_dssanja9wi.mp3",
      "videoId": null,
-     "ok": false,
-     "imgTotal": 0,
+     "ok": true,
+     "imgTotal": 1,
      "imgSrc": "list",
      "imgTry": 1
     }
@@ -953,8 +963,8 @@
    "douyinId": "yi1315987",
    "postCount": 21,
    "ipLocation": "广东",
-   "ipAt": "2026-11-14T12:55:38.291Z",
-   "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/enaswrjdu7aa7th/oli_yumxw8dft_l0_ed_xw_qb7vl88vwk.jpg",
+   "ipAt": "2026-11-14T18:45:41.312Z",
+   "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/jntu63flioargf2/oli_yumxw8dft_l0_ed_xw_yzp4vswl0c.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-0813_oYVkIoeaAONrYW8DAAnAQSAF9JlgCCAAAYDybf.jpeg?from=2956013662",
    "signature": "",
    "verify": "",
@@ -1519,6 +1529,14 @@
      "following": 214,
      "liked": 1266,
      "posts": 21
+    },
+    {
+     "at": "2026-11-14T18:45:41.312Z",
+     "day": "2026-11-15",
+     "followers": 73,
+     "following": 214,
+     "liked": 1266,
+     "posts": 21
     }
    ],
    "_probe": {
@@ -1574,7 +1592,7 @@
      "add": 0
     }
    },
-   "profileAt": "2026-11-14T12:55:38.291Z",
+   "profileAt": "2026-11-14T18:45:41.312Z",
    "posts": [
     {
      "id": "7704397708472541049",
@@ -1830,11 +1848,13 @@
      "products": [],
      "duration": 0,
      "cover": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/il5tmhi067pqvnt/7698141512047817201_smwmwhc1ly.jpg",
-     "images": [],
+     "images": [
+      "https://dywall-m4k7.web.zaka.live/api/files/wall_media/g3elahnejsmcu6y/7698141512047817201_0_artwe1pupd.jpg"
+     ],
      "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/w35dywitk6il548/7698141512047817201_rfcpxtuyl0.mp3",
      "videoId": null,
-     "ok": false,
-     "imgTotal": 0,
+     "ok": true,
+     "imgTotal": 1,
      "imgSrc": "list",
      "imgTry": 1
     },
@@ -2244,8 +2264,8 @@
    "douyinId": "ww237729",
    "postCount": 1,
    "ipLocation": "广东",
-   "ipAt": "2026-11-14T12:55:38.291Z",
-   "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/3wwwc6bxvmzoku6/v_gixiclk_n2m_ce3_foiu_gwei4zpzpc.jpg",
+   "ipAt": "2026-11-14T18:45:41.312Z",
+   "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/8x9h7cn7ye28yjp/v_gixiclk_n2m_ce3_foiu_lee42kxzcf.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_919ce9fa47679563f80c81a1574df2eb.jpeg?from=2956013662",
    "signature": "希望你能记得我.",
    "verify": "",
@@ -2676,8 +2696,16 @@
      "posts": 2
     },
     {
-     "at": "2026-11-14T12:55:38.291Z",
+     "at": "2026-11-14T15:00:52.720Z",
      "day": "2026-11-14",
+     "followers": 19,
+     "following": 9,
+     "liked": 266,
+     "posts": 2
+    },
+    {
+     "at": "2026-11-14T18:45:41.312Z",
+     "day": "2026-11-15",
      "followers": 19,
      "following": 9,
      "liked": 266,
@@ -2723,7 +2751,7 @@
     "pages": 0,
     "why": "skip"
    },
-   "profileAt": "2026-11-14T12:55:38.291Z",
+   "profileAt": "2026-11-14T18:45:41.312Z",
    "posts": [
     {
      "id": "7697980969253375141",
@@ -2832,15 +2860,15 @@
   ]
  },
  "_diag": {
-  "at": "2026-11-14T12:45:52.580Z",
+  "at": "2026-11-14T18:45:53.439Z",
   "ch": "http",
   "code": 0,
   "everyMin": 15,
   "fresh": 0,
-  "nextAt": "2026-11-14T13:00:00.000Z",
-  "round": 565,
+  "nextAt": "2026-11-14T19:01:07.034Z",
+  "round": 589,
   "runner": "cf-worker",
-  "seconds": 11,
+  "seconds": 14,
   "stage": "done",
   "tail": "Worker 采集完成：3 个号 · 无浏览器进程"
  },
