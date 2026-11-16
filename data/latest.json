@@ -1,5 +1,5 @@
 {
- "syncedAt": "2026-11-16T01:08:11.236Z",
+ "syncedAt": "2026-11-16T08:30:16.995Z",
  "accounts": [
   {
    "secUid": "MS4wLjABAAAAGUIXLVBVRv48mNYj4ieU5HU7y6iXSST_Whana-c8Jts6t-AtB_A2b_aB4_sENp5T",
@@ -7,7 +7,7 @@
    "douyinId": "endjfjk",
    "postCount": 11,
    "ipLocation": "广西",
-   "ipAt": "2026-11-16T01:06:26.395Z",
+   "ipAt": "2026-11-16T08:28:27.872Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/mrftofbp38yy110/s6t_at_ba2ba_b4s_enp5_t_d0xz3atvx0.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_29460abd1df1cf3c14840273fec0995d.jpeg?from=2956013662",
    "signature": "( ,,>ヮ<,,) =\n小宝贝：@小钢牙",
@@ -15,7 +15,7 @@
    "verifyType": "none",
    "followerCount": 274,
    "followingCount": 83,
-   "totalFavorited": 38093,
+   "totalFavorited": 38095,
    "awemeCount": 11,
    "live": {
     "isLive": false,
@@ -618,6 +618,14 @@
      "following": 83,
      "liked": 38093,
      "posts": 11
+    },
+    {
+     "at": "2026-11-16T08:28:27.872Z",
+     "day": "2026-11-16",
+     "followers": 274,
+     "following": 83,
+     "liked": 38095,
+     "posts": 11
     }
    ],
    "_probe": {
@@ -657,13 +665,13 @@
    "listPages": 2,
    "listPc": {
     "via": "sign",
-    "pages": 2,
+    "pages": 1,
     "why": "enough",
     "got": 11,
     "tries": 1,
     "add": 1
    },
-   "profileAt": "2026-11-16T01:06:26.395Z",
+   "profileAt": "2026-11-16T08:28:27.872Z",
    "posts": [
     {
      "id": "7699007556488458427",
@@ -907,7 +915,7 @@
      "desc": "一切都是男的骗我 女的欠我 老的冤枉我 小的欺负我 身边的霸凌我 网上的笑话我 你们全都对不起我#双鱼",
      "digg": 14100,
      "commentCount": 79,
-     "collectCount": 1695,
+     "collectCount": 1694,
      "shareCount": 723,
      "playCount": 0,
      "createdAt": 1762166584,
@@ -995,7 +1003,7 @@
    "douyinId": "yi1315987",
    "postCount": 21,
    "ipLocation": "广东",
-   "ipAt": "2026-11-16T01:06:26.405Z",
+   "ipAt": "2026-11-16T08:28:27.883Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/jntu63flioargf2/oli_yumxw8dft_l0_ed_xw_yzp4vswl0c.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-0813_oYVkIoeaAONrYW8DAAnAQSAF9JlgCCAAAYDybf.jpeg?from=2956013662",
    "signature": "",
@@ -1601,6 +1609,14 @@
      "following": 214,
      "liked": 1266,
      "posts": 21
+    },
+    {
+     "at": "2026-11-16T08:28:27.883Z",
+     "day": "2026-11-16",
+     "followers": 73,
+     "following": 214,
+     "liked": 1266,
+     "posts": 21
     }
    ],
    "_probe": {
@@ -1648,15 +1664,15 @@
     "pc": {
      "pages": 0,
      "why": "idle",
-     "res": 2,
+     "res": 1,
      "scrolls": 5,
      "title": "wo八方来财的抖音 - 抖音",
      "login": false,
-     "api": "https://www-hj.douyin.com/aweme/v1/web/aweme/post/",
+     "api": "https://www.douyin.com/aweme/v1/web/aweme/post/",
      "add": 0
     }
    },
-   "profileAt": "2026-11-16T01:06:26.405Z",
+   "profileAt": "2026-11-16T08:28:27.883Z",
    "posts": [
     {
      "id": "7704397708472541049",
@@ -2328,7 +2344,7 @@
    "douyinId": "ww237729",
    "postCount": 1,
    "ipLocation": "广东",
-   "ipAt": "2026-11-16T01:06:26.406Z",
+   "ipAt": "2026-11-16T08:28:27.884Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/8x9h7cn7ye28yjp/v_gixiclk_n2m_ce3_foiu_lee42kxzcf.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_919ce9fa47679563f80c81a1574df2eb.jpeg?from=2956013662",
    "signature": "希望你能记得我.",
@@ -2792,7 +2808,7 @@
      "posts": 2
     },
     {
-     "at": "2026-11-16T01:06:26.406Z",
+     "at": "2026-11-16T08:28:27.884Z",
      "day": "2026-11-16",
      "followers": 19,
      "following": 9,
@@ -2839,7 +2855,7 @@
     "pages": 0,
     "why": "skip"
    },
-   "profileAt": "2026-11-16T01:06:26.406Z",
+   "profileAt": "2026-11-16T08:28:27.884Z",
    "posts": [
     {
      "id": "7697980969253375141",
@@ -2929,7 +2945,7 @@
     "got": {
      "like": 14100,
      "comment": 79,
-     "collect": 1695,
+     "collect": 1694,
      "share": 723,
      "time": 0
     }
@@ -2948,15 +2964,15 @@
   ]
  },
  "_diag": {
-  "at": "2026-11-16T01:00:52.984Z",
+  "at": "2026-11-16T08:15:52.741Z",
   "ch": "http",
   "code": 0,
   "everyMin": 15,
   "fresh": 0,
-  "nextAt": "2026-11-16T01:16:01.765Z",
-  "round": 710,
+  "nextAt": "2026-11-16T08:31:02.770Z",
+  "round": 739,
   "runner": "cf-worker",
-  "seconds": 9,
+  "seconds": 10,
   "stage": "done",
   "tail": "Worker 采集完成：3 个号 · 无浏览器进程"
  },
