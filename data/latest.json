@@ -1,5 +1,5 @@
 {
- "syncedAt": "2026-11-16T19:07:25.942Z",
+ "syncedAt": "2026-11-17T01:00:34.862Z",
  "accounts": [
   {
    "secUid": "MS4wLjABAAAAGUIXLVBVRv48mNYj4ieU5HU7y6iXSST_Whana-c8Jts6t-AtB_A2b_aB4_sENp5T",
@@ -7,7 +7,7 @@
    "douyinId": "endjfjk",
    "postCount": 11,
    "ipLocation": "广西",
-   "ipAt": "2026-11-16T19:03:52.867Z",
+   "ipAt": "2026-11-17T00:58:33.137Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/mrftofbp38yy110/s6t_at_ba2ba_b4s_enp5_t_d0xz3atvx0.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_29460abd1df1cf3c14840273fec0995d.jpeg?from=2956013662",
    "signature": "( ,,>ヮ<,,) =\n小宝贝：@小钢牙",
@@ -642,6 +642,14 @@
      "following": 83,
      "liked": 38103,
      "posts": 11
+    },
+    {
+     "at": "2026-11-17T00:58:33.137Z",
+     "day": "2026-11-17",
+     "followers": 274,
+     "following": 83,
+     "liked": 38103,
+     "posts": 11
     }
    ],
    "_probe": {
@@ -670,7 +678,7 @@
      "common_labels"
     ],
     "stat": {
-     "digg_count": 2660
+     "digg_count": 2661
     },
     "ct": null,
     "dur": null,
@@ -687,14 +695,14 @@
     "tries": 1,
     "add": 1
    },
-   "profileAt": "2026-11-16T19:03:52.867Z",
+   "profileAt": "2026-11-17T00:58:33.137Z",
    "posts": [
     {
      "id": "7699007556488458427",
      "account": "endjfjk",
      "type": "note",
      "desc": "我跋山涉水 生命就随我流动#双鱼",
-     "digg": 2660,
+     "digg": 2661,
      "commentCount": 21,
      "collectCount": 170,
      "shareCount": 77,
@@ -1019,7 +1027,7 @@
    "douyinId": "yi1315987",
    "postCount": 21,
    "ipLocation": "广东",
-   "ipAt": "2026-11-16T19:03:52.883Z",
+   "ipAt": "2026-11-17T00:58:33.148Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/jntu63flioargf2/oli_yumxw8dft_l0_ed_xw_yzp4vswl0c.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-0813_oYVkIoeaAONrYW8DAAnAQSAF9JlgCCAAAYDybf.jpeg?from=2956013662",
    "signature": "",
@@ -1649,6 +1657,14 @@
      "following": 214,
      "liked": 1268,
      "posts": 21
+    },
+    {
+     "at": "2026-11-17T00:58:33.148Z",
+     "day": "2026-11-17",
+     "followers": 73,
+     "following": 214,
+     "liked": 1268,
+     "posts": 21
     }
    ],
    "_probe": {
@@ -1704,7 +1720,7 @@
      "add": 0
     }
    },
-   "profileAt": "2026-11-16T19:03:52.883Z",
+   "profileAt": "2026-11-17T00:58:33.148Z",
    "posts": [
     {
      "id": "7704397708472541049",
@@ -2049,7 +2065,7 @@
      "images": [
       "https://dywall-m4k7.web.zaka.live/api/files/wall_media/jhq199df3pv5nyb/7585960360549666085_0_s4zss68wop.jpg"
      ],
-     "music": null,
+     "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/hciaz6x79okus63/7585960360549666085_bchn3f794k.mp3",
      "videoId": null,
      "ok": true,
      "imgTotal": 1,
@@ -2376,7 +2392,7 @@
    "douyinId": "ww237729",
    "postCount": 1,
    "ipLocation": "广东",
-   "ipAt": "2026-11-16T19:03:52.883Z",
+   "ipAt": "2026-11-17T00:58:33.149Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/8x9h7cn7ye28yjp/v_gixiclk_n2m_ce3_foiu_lee42kxzcf.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_919ce9fa47679563f80c81a1574df2eb.jpeg?from=2956013662",
    "signature": "希望你能记得我.",
@@ -2846,6 +2862,22 @@
      "following": 9,
      "liked": 266,
      "posts": 1
+    },
+    {
+     "at": "2026-11-16T23:45:52.862Z",
+     "day": "2026-11-16",
+     "followers": 19,
+     "following": 9,
+     "liked": 266,
+     "posts": 2
+    },
+    {
+     "at": "2026-11-17T00:58:33.149Z",
+     "day": "2026-11-17",
+     "followers": 19,
+     "following": 9,
+     "liked": 266,
+     "posts": 1
     }
    ],
    "_probe": {
@@ -2887,7 +2919,7 @@
     "pages": 0,
     "why": "skip"
    },
-   "profileAt": "2026-11-16T19:03:52.883Z",
+   "profileAt": "2026-11-17T00:58:33.149Z",
    "posts": [
     {
      "id": "7697980969253375141",
@@ -2996,15 +3028,15 @@
   ]
  },
  "_diag": {
-  "at": "2026-11-16T18:45:52.672Z",
+  "at": "2026-11-17T00:45:53.448Z",
   "ch": "http",
   "code": 0,
   "everyMin": 15,
   "fresh": 0,
-  "nextAt": "2026-11-16T19:00:00.000Z",
-  "round": 781,
+  "nextAt": "2026-11-17T01:00:00.000Z",
+  "round": 804,
   "runner": "cf-worker",
-  "seconds": 11,
+  "seconds": 14,
   "stage": "done",
   "tail": "Worker 采集完成：3 个号 · 无浏览器进程"
  },
