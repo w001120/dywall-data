@@ -1,5 +1,5 @@
 {
- "syncedAt": "2026-11-19T13:25:55.425Z",
+ "syncedAt": "2026-11-19T19:19:01.551Z",
  "accounts": [
   {
    "secUid": "MS4wLjABAAAAGUIXLVBVRv48mNYj4ieU5HU7y6iXSST_Whana-c8Jts6t-AtB_A2b_aB4_sENp5T",
@@ -7,7 +7,7 @@
    "douyinId": "endjfjk",
    "postCount": 11,
    "ipLocation": "广西",
-   "ipAt": "2026-11-19T13:23:17.092Z",
+   "ipAt": "2026-11-19T19:16:58.064Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/8db7m3buxvzelzg/s6t_at_ba2ba_b4s_enp5_t_h7rflwba2n.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_29460abd1df1cf3c14840273fec0995d.jpeg?from=2956013662",
    "signature": "( ,,>ヮ<,,) =\n小宝贝：@小钢牙",
@@ -706,6 +706,14 @@
      "following": 82,
      "liked": 38112,
      "posts": 11
+    },
+    {
+     "at": "2026-11-19T19:16:58.064Z",
+     "day": "2026-11-20",
+     "followers": 271,
+     "following": 82,
+     "liked": 38112,
+     "posts": 11
     }
    ],
    "_probe": {
@@ -745,13 +753,13 @@
    "listPages": 2,
    "listPc": {
     "via": "sign",
-    "pages": 2,
+    "pages": 1,
     "why": "enough",
     "got": 11,
     "tries": 1,
     "add": 1
    },
-   "profileAt": "2026-11-19T13:23:17.092Z",
+   "profileAt": "2026-11-19T19:16:58.064Z",
    "posts": [
     {
      "id": "7699007556488458427",
@@ -773,7 +781,7 @@
      "duration": 0,
      "cover": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/v9w2g7wpaf8n1by/7699007556488458427_yyxm2tni52.jpg",
      "images": [],
-     "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/duyh28ugqjv7rlk/7699007556488458427_le6r97kl01.mp3",
+     "music": null,
      "videoId": null,
      "ok": false,
      "imgTotal": 0,
@@ -828,13 +836,11 @@
      "products": [],
      "duration": 0,
      "cover": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/ggoctkykx45za35/7644881036137423097_c93i89gy01.jpg",
-     "images": [
-      "https://dywall-m4k7.web.zaka.live/api/files/wall_media/ks9oo5j2j114kks/7644881036137423097_0_u64cz100xi.jpg"
-     ],
+     "images": [],
      "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/2tm60f7o4bla08l/7644881036137423097_z3vxesqwlv.mp3",
      "videoId": null,
-     "ok": true,
-     "imgTotal": 1,
+     "ok": false,
+     "imgTotal": 0,
      "imgSrc": "list",
      "imgTry": 1
     },
@@ -892,7 +898,7 @@
      "images": [
       "https://dywall-m4k7.web.zaka.live/api/files/wall_media/zodd85sin35kl6a/7607435877312627386_0_ybkyqp0t8k.jpg"
      ],
-     "music": null,
+     "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/65hb6idpv2k8xhv/7607435877312627386_e1ufqeoxro.mp3",
      "videoId": null,
      "ok": true,
      "imgTotal": 1,
@@ -918,13 +924,11 @@
      "products": [],
      "duration": 0,
      "cover": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/rs77auhgw6rjsgi/7603007946703794617_8r69ow9l56.jpg",
-     "images": [
-      "https://dywall-m4k7.web.zaka.live/api/files/wall_media/il18hsgozjy0um2/7603007946703794617_0_zdlbtk8177.jpg"
-     ],
+     "images": [],
      "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/5qp2674mcyratum/7603007946703794617_kim0eegkza.mp3",
      "videoId": null,
-     "ok": true,
-     "imgTotal": 1,
+     "ok": false,
+     "imgTotal": 0,
      "imgSrc": "list",
      "imgTry": 1
     },
@@ -947,13 +951,11 @@
      "products": [],
      "duration": 0,
      "cover": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/ooiok78f0jz1bsl/7580324391335575673_gn7j76bmrm.jpg",
-     "images": [
-      "https://dywall-m4k7.web.zaka.live/api/files/wall_media/tbkzs70zuwcx24b/7580324391335575673_0_1zb0gmk1cg.jpg"
-     ],
+     "images": [],
      "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/bbqyenq1wijwl02/7580324391335575673_su5vypyoqy.mp3",
      "videoId": null,
-     "ok": true,
-     "imgTotal": 1,
+     "ok": false,
+     "imgTotal": 0,
      "imgSrc": "list",
      "imgTry": 1
     },
@@ -964,7 +966,7 @@
      "desc": "面相学根本就不准 虽然我每天都极尽恶毒地言语诅咒我的仇人 但我的长相还是呆萌无辜可爱调皮大方水灵那一挂的#双鱼",
      "digg": 6328,
      "commentCount": 54,
-     "collectCount": 870,
+     "collectCount": 869,
      "shareCount": 502,
      "playCount": 0,
      "createdAt": 1763901973,
@@ -976,13 +978,11 @@
      "products": [],
      "duration": 0,
      "cover": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/lrrabcxy93qmm2f/7575901290028790777_s7pel5xdst.jpg",
-     "images": [
-      "https://dywall-m4k7.web.zaka.live/api/files/wall_media/9z1pxjyrhzzcu1g/7575901290028790777_0_sllib1pkyx.jpg"
-     ],
+     "images": [],
      "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/nfn30knjhnfvr4o/7575901290028790777_bw3lef524o.mp3",
      "videoId": null,
-     "ok": true,
-     "imgTotal": 1,
+     "ok": false,
+     "imgTotal": 0,
      "imgSrc": "list",
      "imgTry": 1
     },
@@ -1079,7 +1079,7 @@
    "douyinId": "yi1315987",
    "postCount": 21,
    "ipLocation": "广东",
-   "ipAt": "2026-11-19T13:23:17.103Z",
+   "ipAt": "2026-11-19T19:16:58.074Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/warifk156dc294f/oli_yumxw8dft_l0_ed_xw_jc25zns3nq.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-0813_oYVkIoeaAONrYW8DAAnAQSAF9JlgCCAAAYDybf.jpeg?from=2956013662",
    "signature": "",
@@ -1773,6 +1773,14 @@
      "following": 214,
      "liked": 1267,
      "posts": 21
+    },
+    {
+     "at": "2026-11-19T19:16:58.074Z",
+     "day": "2026-11-20",
+     "followers": 73,
+     "following": 214,
+     "liked": 1267,
+     "posts": 21
     }
    ],
    "_probe": {
@@ -1828,7 +1836,7 @@
      "add": 0
     }
    },
-   "profileAt": "2026-11-19T13:23:17.103Z",
+   "profileAt": "2026-11-19T19:16:58.074Z",
    "posts": [
     {
      "id": "7704397708472541049",
@@ -2056,7 +2064,7 @@
      "images": [
       "https://dywall-m4k7.web.zaka.live/api/files/wall_media/a4npnepl5r59r9b/7698768041774444017_0_oantorwczw.jpg"
      ],
-     "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/7no2q21n5yoxewi/7698768041774444017_lu4jddgb5w.mp3",
+     "music": null,
      "videoId": null,
      "ok": true,
      "imgTotal": 1,
@@ -2087,7 +2095,7 @@
      "images": [
       "https://dywall-m4k7.web.zaka.live/api/files/wall_media/g3elahnejsmcu6y/7698141512047817201_0_artwe1pupd.jpg"
      ],
-     "music": null,
+     "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/w35dywitk6il548/7698141512047817201_rfcpxtuyl0.mp3",
      "videoId": null,
      "ok": true,
      "imgTotal": 1,
@@ -2141,11 +2149,13 @@
      "products": [],
      "duration": 0,
      "cover": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/n7njqhdzio606xb/7603756180757936549_f0ug0u56ug.jpg",
-     "images": [],
+     "images": [
+      "https://dywall-m4k7.web.zaka.live/api/files/wall_media/vp68tjsgd7jkp42/7603756180757936549_0_kcgtgtf99f.jpg"
+     ],
      "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/fjoyszg17bwangp/7603756180757936549_ra83897syf.mp3",
      "videoId": null,
-     "ok": false,
-     "imgTotal": 0,
+     "ok": true,
+     "imgTotal": 1,
      "imgSrc": "list",
      "imgTry": 1
     },
@@ -2359,13 +2369,11 @@
      "products": [],
      "duration": 0,
      "cover": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/8oqzdagiqkizuln/7567019340668875131_zpt7t1zckv.jpg",
-     "images": [
-      "https://dywall-m4k7.web.zaka.live/api/files/wall_media/7mq1s7yxmak03qr/7567019340668875131_0_lvieye40uj.jpg"
-     ],
+     "images": [],
      "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/5g9la0jezoi4455/7567019340668875131_9rdvt6qw8o.mp3",
      "videoId": null,
-     "ok": true,
-     "imgTotal": 1,
+     "ok": false,
+     "imgTotal": 0,
      "imgSrc": "list",
      "imgTry": 1
     },
@@ -2423,11 +2431,13 @@
      "products": [],
      "duration": 0,
      "cover": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/pnkcvnayo92cb4m/7555415237287365947_03n1u1mnf7.jpg",
-     "images": [],
+     "images": [
+      "https://dywall-m4k7.web.zaka.live/api/files/wall_media/qdvm7co9vdc3yx7/7555415237287365947_0_j4c7o0k6yi.jpg"
+     ],
      "music": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/db28mq117s0hhsr/7555415237287365947_jw2be8cxz2.mp3",
      "videoId": null,
-     "ok": false,
-     "imgTotal": 0,
+     "ok": true,
+     "imgTotal": 1,
      "imgSrc": "list",
      "imgTry": 1
     },
@@ -2496,7 +2506,7 @@
    "douyinId": "ww237729",
    "postCount": 1,
    "ipLocation": "广东",
-   "ipAt": "2026-11-19T13:23:17.103Z",
+   "ipAt": "2026-11-19T19:16:58.074Z",
    "avatar": "https://dywall-m4k7.web.zaka.live/api/files/wall_media/gtfnd193gsb75p3/v_gixiclk_n2m_ce3_foiu_0tryq882f3.jpg",
    "avatarSrc": "https://p3-pc.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_919ce9fa47679563f80c81a1574df2eb.jpeg?from=2956013662",
    "signature": "希望你能记得我.",
@@ -3008,8 +3018,8 @@
      "posts": 2
     },
     {
-     "at": "2026-11-19T13:23:17.103Z",
-     "day": "2026-11-19",
+     "at": "2026-11-19T19:16:58.074Z",
+     "day": "2026-11-20",
      "followers": 19,
      "following": 9,
      "liked": 266,
@@ -3055,7 +3065,7 @@
     "pages": 0,
     "why": "skip"
    },
-   "profileAt": "2026-11-19T13:23:17.103Z",
+   "profileAt": "2026-11-19T19:16:58.074Z",
    "posts": [
     {
      "id": "7697980969253375141",
@@ -3164,15 +3174,15 @@
   ]
  },
  "_diag": {
-  "at": "2026-11-19T13:15:53.547Z",
+  "at": "2026-11-19T19:15:52.780Z",
   "ch": "http",
   "code": 0,
   "everyMin": 15,
   "fresh": 0,
-  "nextAt": "2026-11-19T13:30:00.000Z",
-  "round": 1046,
+  "nextAt": "2026-11-19T19:31:03.923Z",
+  "round": 1070,
   "runner": "cf-worker",
-  "seconds": 10,
+  "seconds": 11,
   "stage": "done",
   "tail": "Worker 采集完成：3 个号 · 无浏览器进程"
  },
